@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+     "$basetexture" "models\props_buildings\DestroyedBuilldingWall01a"
+     "$surfaceprop" "concrete"
+     $nocull 1
+}

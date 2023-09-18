@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Combine_Room/combine_panel001"
+	"$surfaceprop" "metal"
+	$nocull 1
+}

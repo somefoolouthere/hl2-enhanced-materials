@@ -1,0 +1,1 @@
+LightmappedGeneric { $basetexture tile/tilefloor011a $surfaceprop tile $bumpmap tile/tilefloor011a_normal $envmap env_cubemap $envmaptint "[.2 .2 .2]" $fresnelreflection 1 $normalmapalphaenvmapmask 1 $phong	1 $phongexponent 256 $phongamount "[.512 .512 .512 1]" $phongmaskcontrastbrightness "[0 0]" }

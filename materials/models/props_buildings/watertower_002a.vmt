@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+     "$basetexture" "models\props_buildings\watertower_002a"
+     "$surfaceprop" "metal"
+     $nocull 1
+}

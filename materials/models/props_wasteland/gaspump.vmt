@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$baseTexture Models/props_wasteland/gaspump
+$nocull 1
+}

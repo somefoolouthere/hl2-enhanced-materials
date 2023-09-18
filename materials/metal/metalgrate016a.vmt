@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Metal/metalgrate016a"
+	"%compilepassbullets" 1
+	"$surfaceprop" "metalgrate"
+	"%keywords" "c17industrial"
+	"$alphatest" 1 $phong 1 $phongexponent 25 $phongamount "[.25 .25 .25 1]" $phongmaskcontrastbrightness "[.9 0]"
+}

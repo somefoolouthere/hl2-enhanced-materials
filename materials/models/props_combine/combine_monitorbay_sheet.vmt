@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_combine/combine_monitorbay_sheet"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .517 .517 .517]"
+	"$basealphaenvmapmask" 1
+	$nocull 1
+}

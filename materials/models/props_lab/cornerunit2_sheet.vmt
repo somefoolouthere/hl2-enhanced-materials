@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_lab/cornerunit2_sheet"
+	"$selfillum" "1"
+	$nocull 1
+}

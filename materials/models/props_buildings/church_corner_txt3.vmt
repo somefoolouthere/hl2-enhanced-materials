@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+$baseTexture	models/props_buildings/church_corner_txt3
+$detail detail/plaster_detail_01
+$detailscale 8.283
+$detailblendfactor .2
+$detailblendmode 0
+}

@@ -1,0 +1,1 @@
+Modulate { $baseTexture models/effects/splodecard1_sheet	$mod2x 1	$translucent 1	$model 1	$nocull 1 }

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_c17/clockwood01"
+	"$surfaceprop" "wood"
+	$nocull 1
+}

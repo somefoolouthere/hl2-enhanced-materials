@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture Models/props_combine/Combine_Citadel001
+	$surfaceprop metal
+	%keywords combine
+	$nocull 1
+}

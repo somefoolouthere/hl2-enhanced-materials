@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+$basetexture Nature/snowfloor001a
+$surfaceprop snow
+$phong 1
+$phongexponent 90
+$phongamount "[.9 .9 .9 1]"
+$phongmaskcontrastbrightness "[.9 0]"
+}

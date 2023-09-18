@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "Metal/metalwall060a"
+	"$surfaceprop" "metal"
+	"%keywords" "airexchange,combine" $phong 1 $phongexponent 50 $phongamount "[.5 .5 .5 1]" $phongmaskcontrastbrightness "[.9 0]"
+}

@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+$basetexture	Models/props_wasteland/lighthouse_stairs
+$surfaceprop	metal
+$alphatest	1
+$nocull 1
+}

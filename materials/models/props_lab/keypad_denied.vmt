@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_lab/keypad_denied"
+	"$selfillum" "1"
+	$nocull 1
+}

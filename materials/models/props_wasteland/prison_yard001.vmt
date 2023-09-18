@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$basetexture Models/props_wasteland/prison_yard001
+$surfaceprop metal
+$nocull 1
+}

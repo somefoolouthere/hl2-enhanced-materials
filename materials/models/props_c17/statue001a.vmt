@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+"$basetexture" "Models/props_c17/statue001a"
+"$surfaceprop" "concrete"
+"$envmap" "env_cubemap"
+"$basealphaenvmapmask" 1
+$nocull 1
+$detail detail\noise_detail_01
+$detailscale 7.345
+$detailblendfactor .2
+$detailblendmode 0
+}

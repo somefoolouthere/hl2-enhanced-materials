@@ -1,0 +1,21 @@
+VertexLitGeneric
+{
+"$basetexture"	"Models/Barnacle/roots"
+"$surfaceprop"	"alienflesh"
+"$bumpmap"	"Models/Barnacle/roots_normal"
+$translucent	1
+"$model"	1
+"$phong"	"1"
+"$phongboost"	"3"
+"$phongexponent" "10"
+//"$phongexponenttexture"	"Models/Barnacle/roots_phong"
+"$phongfresnelranges"	"[.2 .4 1]"
+"$rimlight" "1"
+"$rimlightexponent" "2"
+"$envmap" "env_cubemap"
+"$envmaptint" "[.1 .1 .1]"
+"$normalmapalphaenvmapmask" "1"
+"$envmapfresnel" "1"
+$nocull 1
+$phongdisablehalflambert 1
+}

@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+$baseTexture models/props_buildings/antenna
+$nocull	1
+$alphatest 1
+$alphatestreference .5
+}

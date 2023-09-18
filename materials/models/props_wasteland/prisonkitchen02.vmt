@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+$basetexture Models/props_wasteland/prisonkitchen02
+$basealphaenvmapmask 1
+$envmap env_cubemap
+$envmaptint "[.35 .33 .35]"
+$envmapcontrast 1
+$envmapmode 1
+$nocull 1
+}

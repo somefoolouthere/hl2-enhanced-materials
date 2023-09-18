@@ -1,0 +1,15 @@
+LightmappedGeneric
+{
+$baseTexture tile/tilefloor012a
+$surfaceprop tile
+%keywords borealis
+$bumpmap tile/tilefloor012b_normal
+$envmap env_cubemap
+$normalmapalphaenvmapmask 1
+$envmaptint "[.25 .25 .25]"
+$fresnelreflection 1
+$phong 1
+$phongexponent 256
+$phongamount "[.64 .64 .64 1]"
+$phongmaskcontrastbrightness "[0 0]"
+}

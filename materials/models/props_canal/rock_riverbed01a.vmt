@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_canal/rock_riverbed01a"
+	"$surfaceprop" "concrete"
+	$nocull 1
+}

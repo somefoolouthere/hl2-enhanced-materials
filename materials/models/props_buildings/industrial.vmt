@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$baseTexture models/props_buildings/industrial
+$alphatest	1
+$nocull 1
+}

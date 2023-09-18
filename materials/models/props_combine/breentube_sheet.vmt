@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_combine/breentube_sheet"
+	"$surfaceprop" "metal"
+//	"$envmap" "env_cubemap"
+//	"$envmaptint" "[ .2 .3 .3]"
+	$nocull 1
+}

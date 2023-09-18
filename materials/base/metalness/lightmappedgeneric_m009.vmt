@@ -1,0 +1,1 @@
+LightmappedGeneric { $basetexture vgui/black	$surfaceprop concrete	$envmap env_cubemap	$envmaptint "[.09 .09 .09]"	$fresnelreflection 1	$phong 1	$phongexponent 256	$phongamount "[.2304 .2304 .2304 1]"	$phongmaskcontrastbrightness "[0 0]" }

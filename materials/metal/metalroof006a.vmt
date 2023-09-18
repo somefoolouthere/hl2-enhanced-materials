@@ -1,0 +1,19 @@
+LightmappedGeneric
+{
+$basetexture Metal/metalroof006a
+$surfaceprop metal
+%keywords c17industrial
+$envmap env_cubemap
+$bumpmap Metal/metalroof006a_normal
+$normalmapalphaenvmapmask 1
+$envmaptint "[.1 .1 .1]"
+$fresnelreflection 1
+$detail detail/metal_detail_01
+$detailscale 4.283
+$detailblendfactor .3
+$detailblendmode 0
+$phong	1
+$phongexponent 256
+$phongamount "[.256 .256 .256 1]"
+$phongmaskcontrastbrightness "[0 0]"
+}

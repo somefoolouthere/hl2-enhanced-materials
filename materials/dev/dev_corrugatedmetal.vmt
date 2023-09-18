@@ -1,0 +1,1 @@
+LightmappedGeneric { $basetexture dev/dev_corrugatedmetal $surfaceprop metal $phong 1 $phongexponent 50 $phongamount "[.5 .5 .5 1]" $phongmaskcontrastbrightness "[.7 0]" }

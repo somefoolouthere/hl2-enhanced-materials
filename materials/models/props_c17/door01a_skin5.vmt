@@ -1,0 +1,21 @@
+"vertexlitGeneric"
+{
+	// Original shader: BaseTexture
+	"$basetexture" "models/props_c17/door01a_skin5"
+	"$surfaceprop" "wood"
+
+	"$detail" "detail\metal_detail_01"
+	"$detailscale" "3.545"
+	"$detailblendfactor" .6
+	"$detailblendmode" 0
+$bumpmap null-bumpmap
+$phong 1
+$phongboost 1
+$phongexponent 10
+$phongfresnelranges "[.1 .55 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 11
+$phongtint "[.1 .1 .1]"
+$phongdisablehalflambert 1
+}

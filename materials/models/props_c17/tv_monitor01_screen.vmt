@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+     "$basetexture" "models\props_c17\tv_monitor01_screen"
+     "$surfaceprop" "metal"
+     "$translucent" 1
+     "$nodecal" 1
+     $nocull 1
+}

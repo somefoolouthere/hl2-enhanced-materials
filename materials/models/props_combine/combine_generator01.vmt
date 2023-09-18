@@ -1,0 +1,1 @@
+VertexLitGeneric { $basetexture models/props_combine/combine_generator01 $surfaceprop metal $bumpmap models/props_combine/combine_generator01_normal $envmap env_cubemap $normalmapalphaenvmapmask 1 $envmaptint "[.4 .4 .4]" $selfillum 1 $nocull 1 }

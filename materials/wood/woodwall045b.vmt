@@ -1,0 +1,1 @@
+LightmappedGeneric { $basetexture wood/woodwall045b	$surfaceprop wood	%keywords wasteland	$phong 1	$phongexponent 8	$phongamount "[.08 .08 .08 1]"	$phongmaskcontrastbrightness "[.1 0]" }

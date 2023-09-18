@@ -1,0 +1,36 @@
+LightmappedGeneric
+{
+$basetexture Tile/tilefloor016a
+$surfaceprop metal
+%keywords combine
+$envmap env_cubemap
+$envmaptint "[.6 .6 .6]"
+$fresnelreflection 1
+//	"$reflectivity" "[.23 .31 .31 ]" //this is a artificial radiosity boost
+$detail detail/noise_detail_01
+$detailscale 4.283
+$detailblendfactor .3
+$detailblendmode 0
+$phong	1
+$phongexponent 256
+$phongamount "[1.536 1.536 1.536 1]"
+$phongmaskcontrastbrightness "[0 0]"
+LightmappedGeneric_HDR_DX9
+{
+$bumpmap Tile/tilefloor021a_normal
+$envmaptint "[.01 .01 .01]"
+$normalmapalphaenvmapmask 1
+}
+LightmappedGeneric_DX9
+{
+$bumpmap Tile/tilefloor021a_normal
+$normalmapalphaenvmapmask 1
+$envmaptint "[.01 .01 .01]"
+}
+LightmappedGeneric_DX8
+{
+$bumpmap Tile/tilefloor021a_normal
+$nodiffusebumplighting 1
+$normalmapalphaenvmapmask 1
+}
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_canal/canalmap_sheet"
+	"$surfaceprop" "wood"
+	$nocull 1
+}

@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$basetexture Models/props_wasteland/coolingtank02_skin3
+$surfaceprop metal
+$nocull 1
+}

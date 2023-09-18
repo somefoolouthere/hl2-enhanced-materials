@@ -1,0 +1,16 @@
+"vertexlitGeneric"
+{
+	// Original shader: BaseTexture
+	"$basetexture" "models/props_c17/door01a_skin7"
+	"$surfaceprop" "wood"
+$bumpmap null-bumpmap
+$phong 1
+$phongboost 1
+$phongexponent 30
+$phongfresnelranges "[.3 .65 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 4.33
+$phongtint "[.3 .3 .3]"
+$phongdisablehalflambert 1
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_combine/suit_charger001_sheet"
+	"$surfaceprop" "metal"
+	"$selfillum" "1"
+	"%keywords" "combine"
+	$nocull 1
+}

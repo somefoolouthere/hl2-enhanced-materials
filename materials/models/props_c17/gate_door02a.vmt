@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$AlphaTest" "1"
+	"$AlphaTestReference" ".3"
+	"$AllowAlphaToCoverage" "0"
+	"$basetexture" "models\props_c17\gate_door02a"
+	"$surfaceprop" "metal"
+	"$nodecal" 1
+}

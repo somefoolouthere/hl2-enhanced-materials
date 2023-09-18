@@ -1,0 +1,15 @@
+// envmaptint_fix
+"LightmappedGeneric"
+{
+	"$basetexture" "Metal/metalroof005a"
+	"$surfaceprop" "metal"
+	"%keywords" "c17industrial"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "Metal/metalroof005a_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[ .05 .05 .05 ]"
+$phong	1
+$phongexponent 256
+$phongamount "[.128 .128 .128 1]"
+$phongmaskcontrastbrightness "[0 0]"
+}

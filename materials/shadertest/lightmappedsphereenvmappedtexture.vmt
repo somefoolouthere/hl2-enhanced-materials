@@ -1,0 +1,1 @@
+LightmappedGeneric { $basetexture shadertest/LightmappedGeneric	$envmap shadertest/envmap	$envmapsphere 1 }

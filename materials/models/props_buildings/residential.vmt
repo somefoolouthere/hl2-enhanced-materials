@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	$color				"[1 1 1]"
+	$baseTexture			models/props_buildings/residential
+	$selfIllum			0
+	$translucent			0
+	$alpha				1
+	$nocull	1
+	$detail detail\plaster_detail_01
+	$detailscale 8.283
+	$detailblendfactor .2
+	$detailblendmode 0
+}

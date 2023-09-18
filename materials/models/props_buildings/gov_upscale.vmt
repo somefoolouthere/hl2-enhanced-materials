@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+$baseTexture models/props_buildings/gov_upscale
+$nocull 1
+$detail detail/plaster_detail_01
+$detailscale 8.283
+$detailblendfactor .2
+$detailblendmode 0
+}

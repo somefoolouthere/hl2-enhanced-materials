@@ -1,0 +1,1 @@
+LightmappedGeneric { $basetexture wood/woodshelf008a $surfaceprop wood %keywords c17skyscraper $phong	1 $phongexponent 2 $phongamount "[.02 .02 .02 1]" $phongmaskcontrastbrightness "[0 0]" }

@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+$baseTexture models/barnacle/barnacle_sheet
+$bumpmap models/barnacle/barnacle_normal
+$phong 1
+$phongboost 3
+$phongexponent 10
+$phongfresnelranges	"[.05 .5 1]"
+$rimlight 1
+$rimlightexponent 2
+$envmap env_cubemap
+$envmaptint "[.1 .1 .1]"
+$normalmapalphaenvmapmask 1
+$envmapfresnel 1
+$nocull	1
+$phongdisablehalflambert 1
+}

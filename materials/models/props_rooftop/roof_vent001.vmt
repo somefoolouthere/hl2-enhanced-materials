@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\props_rooftop\roof_vent001"
+	"$surfaceprop" "metal"
+	$nocull 1
+}

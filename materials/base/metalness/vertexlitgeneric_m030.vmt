@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+$basetexture vgui/black
+$surfaceprop concrete
+$envmap env_cubemap
+$envmaptint "[.3 .3 .3]"
+$envmapfresnel 1
+$phong 1
+$phongboost 2.56
+$phongexponent 256
+$phongfresnelranges "[.3 .65 1]"
+$phongtint "[.3 .3 .3]"
+}

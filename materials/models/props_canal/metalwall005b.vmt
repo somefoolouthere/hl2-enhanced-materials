@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Metal/metalwall005b"
+	"$surfaceprop" "metal"
+	"%keywords" "c17industrial"
+	$nocull 1
+}
