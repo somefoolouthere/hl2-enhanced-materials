@@ -1,1 +1,15 @@
-LightmappedGeneric { $basetexture Brick/brickwall003a $bumpmap brick/brickwall003a_normal $surfaceprop brick $detail detail/noise_detail_01 $detailscale 7.74 $detailblendfactor .8 $detailblendmode 0 %keywords c17downtown $phong 1 $phongexponent 2 $phongamount "[.02 .02 .02 1]" $phongmaskcontrastbrightness "[0 0]" }
+LightmappedGeneric
+{
+$basetexture Brick/brickwall003a
+$bumpmap brick/brickwall003a_normal
+$surfaceprop brick
+$detail detail/noise_detail_01
+$detailscale 7.74
+$detailblendfactor .8
+$detailblendmode 0
+%keywords c17downtown
+$phong 1
+$phongexponent 2
+$phongamount "[.02 .02 .02 1]"
+$phongmaskcontrastbrightness "[0 0]"
+}

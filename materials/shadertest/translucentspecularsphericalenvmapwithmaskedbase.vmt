@@ -1,1 +1,8 @@
-UnlitGeneric { $additive 1	$basealphaenvmapmask 1	$basetexture shadertest/TranslucentSpecularSphericalEnvMapWithMaskedBase	$envmap shadertest/TranslucentSpecularSphericalEnvMapWithMaskedBase_env	$envmapsphere 1 }
+UnlitGeneric
+{
+$additive 1
+$basealphaenvmapmask 1
+$basetexture shadertest/TranslucentSpecularSphericalEnvMapWithMaskedBase
+$envmap shadertest/TranslucentSpecularSphericalEnvMapWithMaskedBase_env
+$envmapsphere 1
+}

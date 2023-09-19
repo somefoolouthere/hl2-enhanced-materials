@@ -1,1 +1,6 @@
-UnlitGeneric { $envmap shadertest/envmap	$envmapsphere 1	%tooltexture shadertest/envmap }
+UnlitGeneric
+{
+$envmap shadertest/envmap
+$envmapsphere 1
+%tooltexture shadertest/envmap
+}

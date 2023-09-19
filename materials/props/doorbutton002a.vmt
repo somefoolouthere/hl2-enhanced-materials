@@ -1,1 +1,10 @@
-LightmappedGeneric { $basetexture props/doorbutton002a $selfillum 1 $surfaceprop metalpanel $phong	1 $phongexponent 80 $phongamount "[.8 .8 .8 1]" $phongmaskcontrastbrightness "[.5 0]" }
+LightmappedGeneric
+{
+$basetexture props/doorbutton002a
+$selfillum 1
+$surfaceprop metalpanel
+$phong	1
+$phongexponent 80
+$phongamount "[.8 .8 .8 1]"
+$phongmaskcontrastbrightness "[.5 0]"
+}
