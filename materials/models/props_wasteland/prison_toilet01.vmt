@@ -1,9 +1,9 @@
 VertexLitGeneric
 {
-$basetexture Models/props_wasteland/prison_toilet01
+$basetexture models/props_wasteland/prison_toilet01
 $envmap env_cubemap
+$envmaptint "[.3 .3 .3]"
 $basealphaenvmapmask 1
 $surfaceprop metal
-$envmaptint "[.3 .3 .3]"
 $nocull 1
 }

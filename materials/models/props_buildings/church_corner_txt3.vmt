@@ -1,8 +1,18 @@
 VertexLitGeneric
 {
-$baseTexture	models/props_buildings/church_corner_txt3
+$basetexture models/props_buildings/church_corner_txt3
+$bumpmap null-bumpmap
 $detail detail/plaster_detail_01
 $detailscale 8.283
 $detailblendfactor .2
 $detailblendmode 0
+$phong	1
+$phongboost 1
+$phongexponent 1
+$phongfresnelranges "[.01 .505 1]"
+$phongtint "[.01 .01 .01]"
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 100
 }

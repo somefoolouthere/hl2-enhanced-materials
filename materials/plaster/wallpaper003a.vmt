@@ -1,1 +1,14 @@
-LightmappedGeneric { $basetexture plaster/Wallpaper003a $surfaceprop plaster %keywords c17downtown $detail detail/plaster_detail_01 $detailscale 7.283 $detailblendfactor .8 $detailblendmode 0 $phong	1 $phongexponent 4 $phongamount "[.04 .04 .04 1]" $phongmaskcontrastbrightness "[0 0]" }
+LightmappedGeneric
+{
+$basetexture plaster/wallpaper003a
+$surfaceprop plaster
+%keywords c17downtown
+$detail detail/plaster_detail_01
+$detailscale 7.283
+$detailblendfactor .8
+$detailblendmode 0
+$phong	1
+$phongexponent 4
+$phongamount "[.04 .04 .04 1]"
+$phongmaskcontrastbrightness "[0 0]"
+}

@@ -1,17 +1,17 @@
 UnlitGeneric
 {
-$baseTexture Models/Effects/comball_sphere
+$baseTexture models/effects/comball_sphere
 $nocull 1
 $additive 1
 $translucent 1
-$model 1
+$model	1
 Proxies
 {
 TextureScroll
 {
-texturescrollvar $basetexturetransform
-texturescrollrate 1
-texturescrollangle -80
+texturescrollvar	$basetexturetransform
+texturescrollrate	1
+texturescrollangle	-80
 }
 }
 }

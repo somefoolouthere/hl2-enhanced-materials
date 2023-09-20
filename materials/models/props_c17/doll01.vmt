@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+$basetexture models/props_c17/doll01
+$bumpmap	null-bumpmap
+$phong	1
+$phongboost 1
+$phongexponent 20
+$phongfresnelranges "[.2 .6 1]"
+$phongtint "[.2 .2 .2]"
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 5
+}

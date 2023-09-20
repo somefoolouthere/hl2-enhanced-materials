@@ -1,6 +1,16 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$baseTexture" "Models/props_lab/walllight_sheet"
-	"$selfillum" "1"
-	$nocull 1
+$basetexture models/props_lab/walllight_sheet
+$bumpmap	null-bumpmap
+$selfillum 1
+$nocull 1
+$phong	1
+$phongboost 1
+$phongexponent 4
+$phongfresnelranges "[.04 .52 1]"
+$phongtint "[.04 .04 .04]"
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 25
 }

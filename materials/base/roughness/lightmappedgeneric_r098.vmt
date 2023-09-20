@@ -1,1 +1,8 @@
-LightmappedGeneric { $basetexture vgui/black	$surfaceprop concrete	$phong 1	$phongexponent 2	$phongamount "[.02 .02 .02 1]"	$phongmaskcontrastbrightness "[0 0]" }
+LightmappedGeneric
+{
+$basetexture vgui/black
+$phong	1
+$phongexponent 2
+$phongamount "[.02 .02 .02 1]"
+$phongmaskcontrastbrightness "[0 0]"
+}

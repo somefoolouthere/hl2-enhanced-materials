@@ -1,7 +1,7 @@
 LightmappedGeneric
 {
+$basetexture shadertest/sphericalenvmapblendmaskedbasetimeslightmap
+$envmap shadertest/envmap
 $envmapsphere 1
 $basealphaenvmapmask 1
-$basetexture shadertest/SphericalEnvMapBlendMaskedBaseTimesLightmap
-$envmap shadertest/envmap
 }

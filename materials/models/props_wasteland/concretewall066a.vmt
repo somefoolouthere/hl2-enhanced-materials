@@ -1,10 +1,10 @@
 VertexLitGeneric
 {
-$basetexture Concrete/concretewall066a
+$basetexture concrete/concretewall066a
 $surfaceprop concrete
 %keywords coastline
 $detail detail/noise_detail_01
-$detailscale 19.740
+$detailscale 19.74
 $detailblendfactor 1
 $detailblendmode 0
 $nocull 1

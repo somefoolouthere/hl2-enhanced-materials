@@ -1,6 +1,6 @@
 VertexLitGeneric
 {
-$basetexture Concrete/concretewall064b
+$basetexture concrete/concretewall064b
 $surfaceprop concrete
 $nocull 1
 }

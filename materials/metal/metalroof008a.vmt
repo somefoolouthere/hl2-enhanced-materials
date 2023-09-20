@@ -1,13 +1,12 @@
-// envmaptint_fix
-"LightmappedGeneric"
+LightmappedGeneric
 {
-	"$basetexture" "Metal/metalroof008a"
-	"$surfaceprop" "metal"
-	"%keywords" "c17industrial"
-	"$envmap" "env_cubemap"
-	"$bumpmap" "Metal/metalroof008a_normal"
-	"$normalmapalphaenvmapmask" 1
-	"$envmaptint" "[ .1 .1 .1 ]"
+$basetexture metal/metalroof008a
+$bumpmap	metal/metalroof008a_normal
+$surfaceprop metal
+%keywords c17industrial
+$envmap env_cubemap
+$envmaptint "[.1 .1 .1]"
+$normalmapalphaenvmapmask 1
 $phong	1
 $phongexponent 256
 $phongamount "[.256 .256 .256 1]"

@@ -5,7 +5,7 @@ $surfaceprop concrete
 $envmap env_cubemap
 $envmaptint "[.8 .8 .8]"
 $envmapfresnel 1
-$phong 1
+$phong	1
 $phongboost 2.56
 $phongexponent 256
 $phongfresnelranges "[.8 .9 1]"

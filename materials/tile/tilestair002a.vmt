@@ -1,1 +1,10 @@
-LightmappedGeneric { $basetexture tile/tilestair002a $surfaceprop tile %keywords c17downtown $phong 1 $phongexponent 100 $phongamount "[1 1 1 1]" $phongmaskcontrastbrightness "[.8 0]" }
+LightmappedGeneric
+{
+$basetexture tile/tilestair002a
+$surfaceprop tile
+%keywords c17downtown
+$phong	1
+$phongexponent 100
+$phongamount "[1 1 1 1]"
+$phongmaskcontrastbrightness "[.8 0]"
+}

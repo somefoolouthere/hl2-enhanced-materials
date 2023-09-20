@@ -1,18 +1,17 @@
-// envmaptint_fix
-"vertexlitGeneric"
+vertexlitGeneric
 {
-	// Original shader: BaseTexture
-	"$basetexture" "models/props_c17/door01a_skin3"
-	"$surfaceprop" "wood"
-	"$bumpmap" "models/props_c17/door01a_skin3_normal"
-	"%keywords" "c17downtown"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmaptint" "[ .2 .2 .2 ]"
+$basetexture models/props_c17/door01a_skin3
+$bumpmap	models/props_c17/door01a_skin3_normal
+$surfaceprop wood
+%keywords c17downtown
+$envmap env_cubemap
+$envmaptint "[.2 .2 .2]"
+$normalmapalphaenvmapmask 1
 $envmapfresnel 1
 $phong 1
 $phongboost 2.56
 $phongexponent 256
 $phongfresnelranges "[.2 .6 1]"
 $phongtint "[.2 .2 .2]"
+$phongdisablehalflambert 1
 }

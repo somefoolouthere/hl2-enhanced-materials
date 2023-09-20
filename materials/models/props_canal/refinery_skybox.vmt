@@ -1,7 +1,7 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$alphatest" 			1
-	"$baseTexture"			"models/props_canal/refinery_skybox"
-	"$model" 1
-	$nocull 1
+$basetexture models/props_canal/refinery_skybox
+$alphatest 1
+$model	1
+$nocull 1
 }

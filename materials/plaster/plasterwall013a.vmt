@@ -7,7 +7,7 @@ $detailscale 6.783
 $detailblendfactor .8
 $detailblendmode 0
 %keywords c17downtown
-$phong 1
+$phong	1
 $phongexponent 4
 $phongamount "[.04 .04 .04 1]"
 $phongmaskcontrastbrightness "[.1 0]"

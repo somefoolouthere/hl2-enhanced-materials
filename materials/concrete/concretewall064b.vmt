@@ -1,12 +1,11 @@
-"LightmappedGeneric"
+LightmappedGeneric
 {
-	"$basetexture" "Concrete/concretewall064b"
-	"$surfaceprop" "concrete"
-	
-        "$detail" "detail\noise_detail_01"
-	"$detailscale" "7.345"
-	"$detailblendfactor" .6
-	"$detailblendmode" 0
+$basetexture concrete/concretewall064b
+$surfaceprop concrete
+$detail detail/noise_detail_01
+$detailscale 7.345
+$detailblendfactor .6
+$detailblendmode 0
 $phong	1
 $phongexponent 1
 $phongamount "[.01 .01 .01 1]"

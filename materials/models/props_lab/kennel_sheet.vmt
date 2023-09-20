@@ -1,5 +1,15 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$baseTexture" "Models/props_lab/kennel_sheet"
-	$nocull 1
+$basetexture models/props_lab/kennel_sheet
+$bumpmap	null-bumpmap
+$nocull 1
+$phong	1
+$phongboost 1
+$phongexponent 10
+$phongfresnelranges "[.1 .55 1]"
+$phongtint "[.1 .1 .1]"
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 10
 }

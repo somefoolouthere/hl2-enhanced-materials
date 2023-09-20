@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+$basetexture models/props_trainstation/trainstation_ceiling01
+$bumpmap	null-bumpmap
+$alphatest 1
+$surfaceprop metal
+$phong	1
+$phongboost 1
+$phongexponent 1
+$phongfresnelranges "[.01 .505 1]"
+$phongtint "[.01 .01 .01]"
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 100
+}

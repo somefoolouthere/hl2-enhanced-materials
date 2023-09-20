@@ -1,1 +1,10 @@
-LightmappedGeneric { $basetexture wood/woodwall008a	$surfaceprop wood	%keywords "c17downtown,wasteland"	$phong 1	$phongexponent 8	$phongamount "[.08 .08 .08 1]"	$phongmaskcontrastbrightness "[.1 0]" }
+LightmappedGeneric
+{
+$basetexture wood/woodwall008a
+$surfaceprop wood
+%keywords "c17downtown,wasteland"
+$phong	1
+$phongexponent 8
+$phongamount "[.08 .08 .08 1]"
+$phongmaskcontrastbrightness "[.1 0]"
+}

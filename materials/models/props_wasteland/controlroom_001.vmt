@@ -1,6 +1,6 @@
 VertexLitGeneric
 {
-$basetexture Models/props_wasteland/controlroom_001
+$basetexture models/props_wasteland/controlroom_001
 $surfaceprop metal
 $envmap env_cubemap
 $basealphaenvmapmask 1

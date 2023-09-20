@@ -1,7 +1,17 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$baseTexture" "Models/props_lab/workspace_wires"
-	"$nocull" "1"
-	"$alphatest" "1"
-	$alphatestreference .4
+$basetexture models/props_lab/workspace_wires
+$bumpmap	null-bumpmap
+$nocull 1
+$alphatest 1
+$alphatestreference .4
+$phong	1
+$phongboost 1
+$phongexponent 25
+$phongfresnelranges "[.25 .625 1]"
+$phongtint "[.25 .25 .25]"
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 4
 }

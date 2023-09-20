@@ -1,6 +1,6 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$basetexture" "Models/props_c17/light_domelight02_off"
-	"$surfaceprop" "glass"
-	$nocull 1
+$basetexture models/props_c17/light_domelight02_off
+$surfaceprop glass
+$nocull 1
 }

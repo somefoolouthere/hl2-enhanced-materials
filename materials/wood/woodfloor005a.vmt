@@ -1,1 +1,13 @@
-LightmappedGeneric { $basetexture wood/woodfloor005a $surfaceprop wood %keywords c17skyscraper $bumpmap wood/woodfloor005a_normal $parallaxmap wood/woodfloor005a_height $parallaxmapscale .02 $phong 1 $phongexponent 1 $phongamount "[.01 .01 .01 1]" $phongmaskcontrastbrightness "[0 0]" }
+LightmappedGeneric
+{
+$basetexture wood/woodfloor005a
+$bumpmap	wood/woodfloor005a_normal
+$surfaceprop wood
+%keywords c17skyscraper
+$parallaxmap wood/woodfloor005a_height
+$parallaxmapscale .02
+$phong	1
+$phongexponent 1
+$phongamount "[.01 .01 .01 1]"
+$phongmaskcontrastbrightness "[0 0]"
+}

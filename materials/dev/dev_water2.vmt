@@ -1,9 +1,5 @@
 Water
 {
-Water_DX60
-{
-$fallbackmaterial nature/water_dx70
-}
 %tooltexture dev/water_normal
 %compilewater 1
 $abovewater 1
@@ -12,7 +8,7 @@ $refracttexture _rt_WaterRefraction
 $refractamount 1
 $reflecttexture _rt_WaterReflection
 $reflectamount 1
-$scale "[1 1]"
+$scale	"[1 1]"
 $bumpmap dev/water_dudv
 $normalmap dev/water_normal
 $surfaceprop water
@@ -26,15 +22,15 @@ Proxies
 {
 AnimatedTexture
 {
-animatedtexturevar
-$normalmap animatedtextureframenumvar
-$bumpframe animatedtextureframerate 30
+animatedtexturevar	$normalmap
+animatedtextureframenumvar $bumpframe
+animatedtextureframerate 30
 }
 TextureScroll
 {
-texturescrollvar $bumptransform
-texturescrollrate .05
-texturescrollangle 45
+texturescrollvar	$bumptransform
+texturescrollrate	.05
+texturescrollangle	45
 }
 WaterLOD
 {

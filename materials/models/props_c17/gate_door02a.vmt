@@ -1,9 +1,18 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$AlphaTest" "1"
-	"$AlphaTestReference" ".3"
-	"$AllowAlphaToCoverage" "0"
-	"$basetexture" "models\props_c17\gate_door02a"
-	"$surfaceprop" "metal"
-	"$nodecal" 1
+$basetexture models/props_c17/gate_door02a
+$bumpmap	null-bumpmap
+$surfaceprop metal
+$AlphaTest 1
+$AlphaTestReference .3
+$nodecal 1
+$phong	1
+$phongboost 1
+$phongexponent 2
+$phongfresnelranges "[.02 .51 1]"
+$phongtint "[.02 .02 .02]"
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 50
 }

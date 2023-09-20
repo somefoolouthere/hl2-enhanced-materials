@@ -1,6 +1,16 @@
 VertexLitGeneric
 {
-$baseTexture models/props_buildings/industrial
+$basetexture models/props_buildings/industrial
+$bumpmap null-bumpmap
 $alphatest	1
 $nocull 1
+$phong	1
+$phongboost 1
+$phongexponent 1
+$phongfresnelranges "[.01 .505 1]"
+$phongtint "[.01 .01 .01]"
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 100
 }

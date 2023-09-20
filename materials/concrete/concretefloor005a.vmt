@@ -1,1 +1,20 @@
-LightmappedGeneric { $basetexture concrete/concretefloor005a	$surfaceprop concrete	$detail detail/noise_detail_01	$detailscale 7.345	$detailblendfactor .6	$detailblendmode 0	%keywords c17downtown	$bumpmap concrete/concretefloor005a_normal	$normalmapalphaenvmapmask 1	$envmap env_cubemap	$envmaptint "[.1 .1 .1]"	$parallaxmap concrete/concretefloor005a_height	$parallaxmapscale .354	$phong 1	$phongexponent 256	$phongamount "[.256 .256 .256 1]"	$phongmaskcontrastbrightness "[0 0]" }
+LightmappedGeneric
+{
+$basetexture concrete/concretefloor005a
+$bumpmap	concrete/concretefloor005a_normal
+$surfaceprop concrete
+$detail detail/noise_detail_01
+$detailscale 7.345
+$detailblendfactor .6
+$detailblendmode 0
+%keywords c17downtown
+$envmap env_cubemap
+$envmaptint "[.1 .1 .1]"
+$normalmapalphaenvmapmask 1
+$parallaxmap concrete/concretefloor005a_height
+$parallaxmapscale .354
+$phong	1
+$phongexponent 256
+$phongamount "[.256 .256 .256 1]"
+$phongmaskcontrastbrightness "[0 0]"
+}

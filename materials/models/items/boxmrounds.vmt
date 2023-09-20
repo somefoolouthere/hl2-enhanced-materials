@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+$basetexture models/items/boxmrounds
+$bumpmap models/items/boxmrounds_normal
+$envmap env_cubemap
+$normalmapalphaenvmapmask 1
+$phong	1
+$phongboost 2.56
+$phongexponent 256
+$phongfresnelranges "[1 1 1]"
+$phongtint "[1 1 1]"
+$phongdisablehalflambert 1
+}

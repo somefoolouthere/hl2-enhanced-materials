@@ -1,16 +1,19 @@
-// envmaptint_fix
-"LightmappedGeneric"
+LightmappedGeneric
 {
-	"$basetexture" "Metal/metalpipe005a"
-	"%keywords" "c17industrial"
-	"$bumpmap" "Metal/metalpipe005a_normal"
-	"$surfaceprop"  "metal"
-	"$detail" "detail\metal_detail_01"
-	"$detailscale" "4.283"
-	"$detailblendfactor" .65
-	"$detailblendmode" "0"
-
-	"$envmaptint" "[ .1 .1 .1 ]"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1 $fresnelreflection 1 $phong 1 $phongexponent 256 $phongamount "[.256 .256 .256 1]" $phongmaskcontrastbrightness "[0 0]"
+$basetexture metal/metalpipe005a
+$bumpmap	metal/metalpipe005a_normal
+%keywords c17industrial
+$surfaceprop metal
+$detail detail/metal_detail_01
+$detailscale 4.283
+$detailblendfactor .65
+$detailblendmode 0
+$envmap env_cubemap
+$envmaptint "[.1 .1 .1]"
+$normalmapalphaenvmapmask 1
+$fresnelreflection 1
+$phong	1
+$phongexponent 256
+$phongamount "[.256 .256 .256 1]"
+$phongmaskcontrastbrightness "[0 0]"
 }

@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+$basetexture models/props_junk/woodcrates02a
+$bumpmap	null-bumpmap
+$surfaceprop wood
+$phong	1
+$phongboost 1
+$phongexponent 2
+$phongfresnelranges "[.02 .51 1]"
+$phongtint "[.02 .02 .02]"
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 50
+}

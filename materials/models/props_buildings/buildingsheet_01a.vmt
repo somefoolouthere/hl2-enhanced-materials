@@ -1,8 +1,8 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$basetexture" "models/props_buildings/buildingsheet_01a"
-	"$surfaceprop" "concrete"
-	"$envmap" "env_cubemap"	
-	"$basealphaenvmapmask" 1
-	$nocull 1
+$basetexture models/props_buildings/buildingsheet_01a
+$surfaceprop concrete
+$envmap env_cubemap
+$basealphaenvmapmask 1
+$nocull 1
 }

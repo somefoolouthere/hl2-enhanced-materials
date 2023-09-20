@@ -1,23 +1,14 @@
-"LightmappedGeneric"
+LightmappedGeneric
 {
-	"$basetexture" "metal/metalwall076a"
-	"$basealphaenvmapmask" 1
-	"$surfaceprop" "metal"
-	"%keywords" "combine"
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[ .09 .09 .09 ]"
+$basetexture metal/metalwall076a
+$surfaceprop metal
+%keywords combine
+$envmap env_cubemap
+$basealphaenvmapmask 1
+$envmaptint "[.09 .09 .09]"
+$fresnelreflection 1
 $phong	1
 $phongexponent 256
 $phongamount "[.2304 .2304 .2304 1]"
 $phongmaskcontrastbrightness "[0 0]"
-	"LightmappedGeneric_hdr_dx9"
-	{
-		// put HDR override stuff here
-		"$envmaptint" "[ .09 .09 .09]"
-	}
-
-	"LightmappedGeneric_dx9"
-	{
-		"$envmaptint" "[ .09 .09 .09]"
-	}
 }

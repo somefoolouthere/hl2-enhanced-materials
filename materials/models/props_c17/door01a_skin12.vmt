@@ -1,20 +1,21 @@
-"vertexlitGeneric"
+vertexlitGeneric
 {
-"$basetexture" "models/props_c17/door01a_skin12"
-"$surfaceprop" "wood"
-"$bumpmap" "models/props_c17/door01a_skin12_normal"
-"%keywords" "c17downtown"
-"$envmap" "env_cubemap"
-"$normalmapalphaenvmapmask" 1
-"$envmaptint" "[ .3 .3 .3 ]"
-"$detail" "detail\plaster_detail_01"
-"$detailscale" "5.545"
-"$detailblendfactor" .6
-"$detailblendmode" 0
+$basetexture models/props_c17/door01a_skin12
+$bumpmap	models/props_c17/door01a_skin12_normal
+$surfaceprop wood
+%keywords c17downtown
+$envmap env_cubemap
+$envmaptint "[.3 .3 .3]"
+$normalmapalphaenvmapmask 1
+$detail detail/plaster_detail_01
+$detailscale 5.545
+$detailblendfactor .6
+$detailblendmode 0
 $envmapfresnel 1
-$phong 1
+$phong	1
 $phongboost 2.56
 $phongexponent 256
 $phongfresnelranges "[.3 .65 1]"
 $phongtint "[.3 .3 .3]"
+$phongdisablehalflambert 1
 }

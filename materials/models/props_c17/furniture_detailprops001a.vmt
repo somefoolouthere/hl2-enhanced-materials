@@ -1,7 +1,7 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$basetexture" "Models/props_c17/Furniture_DetailProps001a"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-	$nocull 0
+$basetexture models/props_c17/furniture_detailprops001a
+$envmap env_cubemap
+$basealphaenvmapmask 1
+$nocull 0
 }

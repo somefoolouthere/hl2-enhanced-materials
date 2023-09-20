@@ -4,8 +4,8 @@ $basetexture glass/glasswindow007a
 $surfaceprop glass
 %keywords c17trainstation
 $translucent 1
-$envmapmask glass/glasswindow007a_mask
 $envmap env_cubemap
+$envmapmask glass/glasswindow007a_mask
 $phong	1
 $phongexponent 256
 $phongamount "[2.56 2.56 2.56 1]"

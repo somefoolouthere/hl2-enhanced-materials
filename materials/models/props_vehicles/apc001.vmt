@@ -1,9 +1,9 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$basetexture" "Models/props_vehicles/Apc001"
-	"$surfaceprop" "solidmetal"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-	"$envmaptint" "[ .4 .4 .4]"
-	$nocull 1
+$basetexture models/props_vehicles/apc001
+$surfaceprop solidmetal
+$envmap env_cubemap
+$envmaptint "[.4 .4 .4]"
+$basealphaenvmapmask 1
+$nocull 1
 }

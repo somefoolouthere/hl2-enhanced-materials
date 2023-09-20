@@ -1,0 +1,14 @@
+vertexlitgeneric
+{
+$basetexture "models/weapons/v_grenade/grenade body"
+$bumpmap	null-bumpmap
+$envmap env_cubemap
+$envmaptint "[.1 .1 .1]"
+$envmapfresnel 1
+$phong	1
+$phongboost 2.56
+$phongexponent 256
+$phongfresnelranges "[.1 .55 1]"
+$phongtint "[.1 .1 .1]"
+$phongdisablehalflambert 1
+}

@@ -1,10 +1,10 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$baseTexture" "Models/Combine_Room/combine_monitor002"
-	"$surfaceprop" "metal"
-	"$bumpmap" "models/Combine_Room/combine_monitor002_normal"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmaptint" "[ .56 .56 .56 ]"
-	$nocull 1
+$basetexture models/combine_room/combine_monitor002
+$bumpmap	models/combine_room/combine_monitor002_normal
+$surfaceprop metal
+$envmap env_cubemap
+$envmaptint "[.56 .56 .56]"
+$normalmapalphaenvmapmask 1
+$nocull 1
 }

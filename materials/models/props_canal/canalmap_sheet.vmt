@@ -1,6 +1,16 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$basetexture" "Models/props_canal/canalmap_sheet"
-	"$surfaceprop" "wood"
-	$nocull 1
+$basetexture models/props_canal/canalmap_sheet
+$bumpmap	null-bumpmap
+$surfaceprop wood
+$nocull 1
+$phong	1
+$phongboost 1
+$phongexponent 2
+$phongfresnelranges "[.02 .51 1]"
+$phongtint "[.02 .02 .02]"
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 50
 }

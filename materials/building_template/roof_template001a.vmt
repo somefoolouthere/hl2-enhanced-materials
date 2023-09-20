@@ -1,8 +1,8 @@
 LightmappedGeneric
 {
-$basetexture Building_Template/Roof_Template001a
+$basetexture building_template/roof_template001a
+$bumpmap	building_template/roof_template001a_normal
 $surfaceprop concrete
-$bumpmap Building_Template/Roof_Template001a_normal
 $phong	1
 $phongexponent 5
 $phongamount "[.05 .05 .05 1]"

@@ -1,6 +1,5 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$baseTexture" "Models/props_lab/teleportframe_sheet"
-//	"$selfillum" "1"
-	$nocull 1
+$basetexture models/props_lab/teleportframe_sheet
+$nocull 1
 }

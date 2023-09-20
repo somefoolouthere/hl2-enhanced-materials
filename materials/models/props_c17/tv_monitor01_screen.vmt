@@ -1,8 +1,16 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-     "$basetexture" "models\props_c17\tv_monitor01_screen"
-     "$surfaceprop" "metal"
-     "$translucent" 1
-     "$nodecal" 1
-     $nocull 1
+$basetexture models/props_c17/tv_monitor01_screen
+$bumpmap	null-bumpmap
+$surfaceprop metal
+$translucent 1
+$nocull 1
+$envmap env_cubemap
+$envmaptint "[.5 .5 .5]"
+$envmapfresnel 1
+$phong	1
+$phongboost 2.56
+$phongexponent 256
+$phongfresnelranges "[.5 .75 1]"
+$phongtint "[.5 .5 .5]"
 }

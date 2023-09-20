@@ -1,11 +1,11 @@
 VertexLitGeneric
 {
-$baseTexture	"models/props_foliage/ivy01"
+$basetexture models/props_foliage/ivy01
+$bumpmap	null-bumpmap
 $nocull 1
 $alphatest 1
 $alphatestreference .4
 $allowalphatocoverage 1
-$bumpmap null-bumpmap
 $phong 1
 $phongboost 1
 $phongexponent 10

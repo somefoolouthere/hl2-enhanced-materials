@@ -1,1 +1,14 @@
-LightmappedGeneric { $basetexture tile/tileroof003a $surfaceprop tile %keywords c17downtown $bumpmap tile/tileroof003a_normal $envmap env_cubemap $normalmapalphaenvmapmask 1 $envmaptint "[.1 .1 .1]" $phong 1 $phongexponent 256 $phongamount "[.256 .256 .256 1]" $phongmaskcontrastbrightness "[0 0]" }
+LightmappedGeneric
+{
+$basetexture tile/tileroof003a
+$bumpmap	tile/tileroof003a_normal
+$surfaceprop tile
+%keywords c17downtown
+$envmap env_cubemap
+$normalmapalphaenvmapmask 1
+$envmaptint "[.1 .1 .1]"
+$phong	1
+$phongexponent 256
+$phongamount "[.256 .256 .256 1]"
+$phongmaskcontrastbrightness "[0 0]"
+}

@@ -1,1 +1,19 @@
-LightmappedGeneric { $basetexture plaster/plasterwall044c $surfaceprop plaster $detail detail/plaster_detail_01 $detailscale 6.783 $detailblendfactor .8 $detailblendmode 0 $bumpmap plaster/plasterwall044c_normal %keywords c17downtown $envmap env_cubemap $normalmapalphaenvmapmask 1 $envmaptint "[.1 .1 .1]" $fresnelreflection 1 $phong 1 $phongexponent 256 $phongamount "[.256 .256 .256 1]" $phongmaskcontrastbrightness "[0 0]" }
+LightmappedGeneric
+{
+$basetexture plaster/plasterwall044c
+$bumpmap	plaster/plasterwall044c_normal
+$surfaceprop plaster
+$detail detail/plaster_detail_01
+$detailscale 6.783
+$detailblendfactor .8
+$detailblendmode 0
+%keywords c17downtown
+$envmap env_cubemap
+$envmaptint "[.1 .1 .1]"
+$normalmapalphaenvmapmask 1
+$fresnelreflection 1
+$phong	1
+$phongexponent 256
+$phongamount "[.256 .256 .256 1]"
+$phongmaskcontrastbrightness "[0 0]"
+}

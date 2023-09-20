@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+$basetexture Models/Items/CombineRifle_ammo
+$bumpmap	Models/Items/CombineRifle_ammo_normal
+$surfaceprop default
+$selfillum 1
+$model	1
+$phong	1
+$phongboost 1
+$phongexponent 100
+$phongfresnelranges "[1 1 1]"
+$phongdisablehalflambert 1
+$phongwarptexture Models/Items/CombineRifle_ammo_warp
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 1
+}

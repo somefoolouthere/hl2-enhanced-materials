@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+$basetexture models/props_wasteland/light_spotlight01b
+$bumpmap	null-bumpmap
+$surfaceprop glass
+$phong	1
+$phongboost 1
+$phongexponent 5
+$phongfresnelranges "[.05 .525 1]"
+$phongtint "[.05 .05 .05]"
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 20
+}

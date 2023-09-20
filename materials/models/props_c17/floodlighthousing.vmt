@@ -1,6 +1,16 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$basetexture" "Models/props_c17/floodlighthousing"
-	"$surfaceprop" "metal"
-	$nocull 1
+$basetexture models/props_c17/floodlighthousing
+$bumpmap	null-bumpmap
+$surfaceprop metal
+$nocull 1
+$phong	1
+$phongboost 1
+$phongexponent 20
+$phongfresnelranges "[.2 .6 1]"
+$phongtint "[.2 .2 .2]"
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 5
 }

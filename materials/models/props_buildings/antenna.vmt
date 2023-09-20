@@ -1,7 +1,17 @@
 VertexLitGeneric
 {
-$baseTexture models/props_buildings/antenna
+$basetexture models/props_buildings/antenna
+$bumpmap null-bumpmap
 $nocull	1
 $alphatest 1
 $alphatestreference .5
+$phong	1
+$phongboost 1
+$phongexponent 1
+$phongfresnelranges "[.01 .505 1]"
+$phongtint "[.01 .01 .01]"
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 100
 }

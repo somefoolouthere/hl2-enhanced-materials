@@ -1,16 +1,16 @@
 VertexLitGeneric
 {
-$basetexture Models/props_junk/garbage001a_01
+$basetexture models/props_junk/garbage001a_01
+$bumpmap	null-bumpmap
 $surfaceprop plastic
 $nocull 1
-$bumpmap null-bumpmap
 $phong 1
 $phongboost 1
-$phongexponent 1
-$phongfresnelranges "[.01 .505 1]"
+$phongexponent 2
+$phongfresnelranges "[.02 .51 1]"
+$phongtint "[.02 .02 .02]"
+$phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
-$rimlightexponent 101
-$phongtint "[.01 .01 .01]"
-$phongdisablehalflambert 1
+$rimlightexponent 50
 }

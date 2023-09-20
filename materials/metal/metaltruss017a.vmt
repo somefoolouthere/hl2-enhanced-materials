@@ -1,7 +1,10 @@
-"LightmappedGeneric"
+LightmappedGeneric
 {
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Metal/metaltruss017a"
-	"$surfaceprop" "metal"
-	"%keywords" "c17industrial,wasteland" $phong 1 $phongexponent 90 $phongamount "[.9 .9 .9 1]" $phongmaskcontrastbrightness "[.5 0]"
+$basetexture metal/metaltruss017a
+$surfaceprop metal
+%keywords c17industrial,wasteland
+$phong	1
+$phongexponent 90
+$phongamount "[.9 .9 .9 1]"
+$phongmaskcontrastbrightness "[.5 0]"
 }

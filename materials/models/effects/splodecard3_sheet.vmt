@@ -1,1 +1,9 @@
-UnlitGeneric { $baseTexture Models/Effects/splodecard3_sheet $mod2x 1 $additive 1 $translucent 1 $model 1 $nocull 1 }
+UnlitGeneric
+{
+$basetexture models/effects/splodecard3_sheet
+$mod2x	1
+$additive 1
+$translucent 1
+$model	1
+$nocull 1
+}

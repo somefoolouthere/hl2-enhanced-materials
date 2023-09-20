@@ -1,11 +1,6 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$baseTexture" "models/props_rooftop/Scaffolding01a"
-	"$surfaceprop" "metal"
-	//"$envmap" "env_cubemap"
-	//"$basealphaenvmapmask" 1
-	//"$envmaptint" "[ .5 .5 .5]"
-	$nocull 1
+$basetexture models/props_rooftop/scaffolding01a
+$surfaceprop metal
+$nocull 1
 }
-
-

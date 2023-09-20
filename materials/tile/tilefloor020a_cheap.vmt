@@ -1,18 +1,14 @@
 LightmappedGeneric
 {
 $basetexture tile/tilefloor020a
-$envmap env_cubemap
+$bumpmap	tile/tilefloor021a_normal
 $surfaceprop tile
-$envmaptint "[.1 .1 .1]"
 %keywords combine
-LightmappedGeneric_DX9
-{
-$bumpmap tile/tilefloor021a_normal
+$envmap env_cubemap
 $envmaptint "[.45 .45 .45]"
 $fresnelreflection 1
 $phong 1
 $phongexponent 256
 $phongamount "[1.152 1.152 1.152 1]"
 $phongmaskcontrastbrightness "[0 0]"
-}
 }

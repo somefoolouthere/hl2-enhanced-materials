@@ -1,7 +1,17 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$basetexture" "Metal/metalwall005b"
-	"$surfaceprop" "metal"
-	"%keywords" "c17industrial"
-	$nocull 1
+$basetexture metal/metalwall005b
+$bumpmap	null-bumpmap
+$surfaceprop metal
+%keywords c17industrial
+$nocull 1
+$phong	1
+$phongboost 1
+$phongexponent 1
+$phongfresnelranges "[.01 .505 1]"
+$phongtint "[.01 .01 .01]"
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 100
 }

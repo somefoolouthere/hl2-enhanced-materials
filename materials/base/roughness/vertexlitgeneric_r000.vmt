@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+$basetexture vgui/black
+$bumpmap null-bumpmap
+$phong	1
+$phongboost 1
+$phongexponent 100
+$phongfresnelranges "[1 1 1]"
+$phongtint "[1 1 1]"
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 1
+}

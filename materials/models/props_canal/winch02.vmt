@@ -1,9 +1,9 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$basetexture" "Models/props_canal/winch02"
-	"$surfaceprop" "metal"
- 	"$envmaptint" "[ .25 .25 .25]"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-	$nocull 1
+$basetexture models/props_canal/winch02
+$surfaceprop metal
+$envmap env_cubemap
+$envmaptint "[.25 .25 .25]"
+$basealphaenvmapmask 1
+$nocull 1
 }

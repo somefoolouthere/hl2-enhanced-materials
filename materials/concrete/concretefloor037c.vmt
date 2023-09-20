@@ -1,12 +1,12 @@
 LightmappedGeneric
 {
-	$basetexture concrete/concretefloor037a
-	%keywords coastline
-	$bumpmap concrete\concretefloor037b_normal
-	$detail detail\noise_detail_01
-	$detailscale 7.345
-	$detailblendfactor .6
-	$detailblendmode 0
+$basetexture concrete/concretefloor037a
+$bumpmap	concrete/concretefloor037b_normal
+%keywords coastline
+$detail detail/noise_detail_01
+$detailscale 7.345
+$detailblendfactor .6
+$detailblendmode 0
 $phong	1
 $phongexponent 1
 $phongamount "[.01 .01 .01 1]"

@@ -1,6 +1,7 @@
 LightmappedGeneric
 {
 $basetexture concrete/concretefloor028a
+$bumpmap	concrete/concretefloor028a_normal
 $surfaceprop concrete
 $detail detail/noise_detail_01
 $detailscale 7.345
@@ -8,10 +9,9 @@ $detailblendfactor .6
 $detailblendmode 0
 %keywords c17downtown
 $envmap env_cubemap
-$bumpmap concrete/concretefloor028a_normal
 $normalmapalphaenvmapmask 1
 $envmaptint "[.1 .1 .1]"
-$phong 1
+$phong	1
 $phongexponent 256
 $phongamount "[.256 .256 .256 1]"
 $phongmaskcontrastbrightness "[0 0]"

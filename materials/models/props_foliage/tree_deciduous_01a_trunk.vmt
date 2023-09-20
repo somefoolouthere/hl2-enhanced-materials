@@ -1,16 +1,16 @@
 vertexlitGeneric
 {
 $basetexture models/props_foliage/tree_deciduous_01a_trunk
+$bumpmap	null-bumpmap
 $surfaceprop wood
-$nocull	1
-$bumpmap null-bumpmap
+$nocull 1
 $phong 1
 $phongboost 1
 $phongexponent 1
 $phongfresnelranges "[.01 .505 1]"
 $rimlight 1
 $rimlightboost 1
-$rimlightexponent 101
+$rimlightexponent 100
 $phongtint "[.01 .01 .01]"
 $phongdisablehalflambert 1
 }

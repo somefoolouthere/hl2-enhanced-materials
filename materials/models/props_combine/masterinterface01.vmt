@@ -1,1 +1,10 @@
-VertexLitGeneric { $basetexture Models/props_combine/masterinterface01 $surfaceprop metal $envmap env_cubemap $envmaptint "[.5 .5 .5]" $envmapmask Models/props_combine/masterinterface01_mask $selfillum 1 $nocull 1 }
+VertexLitGeneric
+{
+$basetexture models/props_combine/masterinterface01
+$surfaceprop metal
+$envmap env_cubemap
+$envmaptint "[.5 .5 .5]"
+$envmapmask models/props_combine/masterinterface01_mask
+$selfillum 1
+$nocull 1
+}

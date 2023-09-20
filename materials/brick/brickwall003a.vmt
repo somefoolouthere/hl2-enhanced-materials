@@ -1,6 +1,6 @@
 LightmappedGeneric
 {
-$basetexture Brick/brickwall003a
+$basetexture brick/brickwall003a
 $bumpmap brick/brickwall003a_normal
 $surfaceprop brick
 $detail detail/noise_detail_01
