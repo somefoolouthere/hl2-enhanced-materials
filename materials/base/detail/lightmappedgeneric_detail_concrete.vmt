@@ -1,7 +1,6 @@
 LightmappedGeneric
 {
 $basetexture vgui/white
-$surfaceprop concrete
 $detail detail/noise_detail_01
 $detailscale 7.345
 $detailblendfactor .6

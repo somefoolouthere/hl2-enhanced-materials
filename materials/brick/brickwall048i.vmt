@@ -1,7 +1,7 @@
 LightmappedGeneric
 {
 $basetexture brick/brickwall048i
-$bumpmap brick/brickwall048i_normal
+$bumpmap	brick/brickwall048i_normal
 $surfaceprop brick
 $detail detail/noise_detail_01
 $detailscale 7.74
@@ -10,7 +10,7 @@ $detailblendmode 0
 %keywords wasteland
 $parallaxmap brick/brickwall048i_height
 $parallaxmapscale .005
-$phong 1
+$phong	1
 $phongexponent 2
 $phongamount "[.02 .02 .02 1]"
 $phongmaskcontrastbrightness "[0 0]"

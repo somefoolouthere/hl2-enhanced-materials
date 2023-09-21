@@ -10,4 +10,5 @@ $phongboost 2.56
 $phongexponent 256
 $phongfresnelranges "[.2 .6 1]"
 $phongtint "[.2 .2 .2]"
+$phongdisablehalflambert 1
 }

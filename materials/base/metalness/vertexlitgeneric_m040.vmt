@@ -1,7 +1,7 @@
 VertexLitGeneric
 {
 $basetexture vgui/black
-$bumpmap null-bumpmap
+$bumpmap	null-bumpmap
 $envmap env_cubemap
 $envmaptint "[.4 .4 .4]"
 $envmapfresnel 1
@@ -10,4 +10,5 @@ $phongboost 2.56
 $phongexponent 256
 $phongfresnelranges "[.4 .7 1]"
 $phongtint "[.4 .4 .4]"
+$phongdisablehalflambert 1
 }
