@@ -9,6 +9,6 @@ $envmaptint "[.1 .1 .1]"
 $normalmapalphaenvmapmask 1
 $phong	1
 $phongexponent 256
-$phongamount "[.256 .256 .256 1]"
+$phongamount "[.4 .4 .4 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }

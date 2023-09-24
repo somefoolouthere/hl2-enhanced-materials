@@ -6,10 +6,10 @@ $surfaceprop tile
 $envmap env_cubemap
 $envmaptint "[.6 .6 .6]"
 $normalmapalphaenvmapmask 1
-$fresnelreflection 1
+$fresnelreflection .6
 %keywords combine
 $phong	1
 $phongexponent 256
-$phongamount "[1.536 1.536 1.536 1]"
+$phongamount "[2.4 2.4 2.4 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }
