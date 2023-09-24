@@ -13,6 +13,6 @@ $basealphaenvmapmask 1
 $fresnelreflection 1
 $phong	1
 $phongexponent 256
-$phongamount "[1.28 1.28 1.28 1]"
+$phongamount "[2 2 2 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }

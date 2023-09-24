@@ -4,7 +4,7 @@ $basetexture metal/metaltruss017a
 $surfaceprop metal
 %keywords c17industrial,wasteland
 $phong	1
-$phongexponent 90
-$phongamount "[.9 .9 .9 1]"
-$phongmaskcontrastbrightness "[.5 0]"
+$phongexponent 80
+$phongamount "[3.2 3.2 3.2 1]"
+$phongmaskcontrastbrightness "[.9 0]"
 }

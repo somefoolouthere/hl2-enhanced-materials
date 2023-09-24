@@ -8,7 +8,7 @@ $detailblendfactor .65
 $detailblendmode 0
 %keywords borealis
 $phong	1
-$phongexponent 100
-$phongamount "[1 1 1 1]"
-$phongmaskcontrastbrightness "[.8 0]"
+$phongexponent 80
+$phongamount "[3.2 3.2 3.2 1]"
+$phongmaskcontrastbrightness "[.9 0]"
 }

@@ -10,6 +10,6 @@ $detailblendmode 0
 %keywords c17downtown
 $phong	1
 $phongexponent 1
-$phongamount "[.01 .01 .01 1]"
+$phongamount "[.04 .04 .04 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }

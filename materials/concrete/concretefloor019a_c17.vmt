@@ -1,7 +1,7 @@
 LightmappedGeneric
 {
-$basetexture concrete/concretefloor028a
-$bumpmap	concrete/concretefloor028a_normal
+$basetexture concrete/concretefloor019a
+$bumpmap concrete\concretefloor019a_normal
 $surfaceprop concrete
 $detail detail/noise_detail_01
 $detailscale 7.345
@@ -11,6 +11,8 @@ $detailblendmode 0
 $envmap env_cubemap
 $envmaptint "[.1 .1 .1]"
 $normalmapalphaenvmapmask 1
+$parallaxmap concrete/concretefloor019a_height
+$parallaxmapscale .1035
 $phong	1
 $phongexponent 256
 $phongamount "[.4 .4 .4 1]"

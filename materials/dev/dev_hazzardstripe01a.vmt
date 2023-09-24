@@ -4,6 +4,6 @@ $basetexture dev/dev_hazzardstripe01a
 $surfaceprop concrete
 $phong	1
 $phongexponent 100
-$phongamount "[1 1 1 1]"
+$phongamount "[4 4 4 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }
