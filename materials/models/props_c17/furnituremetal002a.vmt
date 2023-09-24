@@ -4,7 +4,7 @@ $basetexture models/props_c17/furnituremetal002a
 $bumpmap	null-bumpmap
 $nocull 1
 $phong	1
-$phongboost 1
+$phongboost 4
 $phongexponent 4
 $phongfresnelranges "[.04 .52 1]"
 $phongtint "[.04 .04 .04]"

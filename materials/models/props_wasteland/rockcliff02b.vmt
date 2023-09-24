@@ -1,12 +1,21 @@
 vertexlitGeneric
 {
-$basetexture Nature/cliffface002a
+$basetexture nature/cliffface002a
 $surfaceprop dirt
-$bumpmap Nature/cliffface002a_normal
+$bumpmap nature/cliffface002a_normal
 $model	1
-$detail detail\rock_detail_01
+$detail detail/rock_detail_01
 $detailscale 8
 $detailblendfactor .7
 $detailblendmode 0
 $nocull 1
+$phong	1
+$phongboost 4
+$phongexponent 1
+$phongfresnelranges "[.01 .505 1]"
+$phongtint "[.01 .01 .01]"
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 100
 }

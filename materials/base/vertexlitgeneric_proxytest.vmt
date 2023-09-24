@@ -1,0 +1,162 @@
+VertexLitGeneric
+{
+$basetexture vgui/black
+$bumpmap	null-bumpmap
+$metalness	1
+$smoothness 0
+$envmap env_cubemap
+$envmaptint "[0 0 0]"
+$envmapfresnel 1
+$phong	1
+$phongboost 8
+$phongexponent .0
+$phongfresnelranges "[1 1 1]"
+$phongtint "[1 1 1]"
+$phongdisablehalflambert 1
+$rimlight	1
+$rimlightboost 1
+$rimlightexponent 1
+$zero	0
+$one	1
+$two	2
+$eight	8
+$maxsmoothness 256
+$smoothnessmidpoint 128
+$phongintensity .0
+$oneplusphongintensity .0
+$envmapintensity .0
+$rimlightintensity .0
+Proxies
+{
+	Clamp
+	{
+		min 0
+		max 255
+		srcvar1 $smoothness
+		resultvar $smoothness
+	}
+	Clamp
+	{
+		min 0
+		max 1
+		srcvar1 $metalness
+		resultvar $metalness
+	}
+	Add
+	{
+		srcvar1 $smoothness
+		srcvar2 $one
+		resultvar $phongexponent
+	}
+	Divide
+	{
+		srcvar1 $maxsmoothness
+		srcvar2 $phongexponent
+		resultvar $rimlightexponent
+	}
+	Divide
+	{
+		srcvar1 $phongexponent
+		srcvar2 $maxsmoothness
+		resultvar $phongintensity
+	}
+	Multiply
+	{
+		srcvar1 $phongintensity
+		srcvar2 $metalness
+		resultvar $phongintensity
+	}
+	Equals
+	{
+		srcvar1 $phongintensity
+		resultvar "$phongfresnelranges[0]"
+	}
+	Add
+	{
+		srcvar1 $phongintensity
+		srcvar2 $one
+		resultvar $oneplusphongintensity
+	}
+	Divide
+	{
+		srcvar1 $oneplusphongintensity
+		srcvar2 $two
+		resultvar "$phongfresnelranges[1]"
+	}
+	Subtract
+	{
+		srcvar1 $phongexponent
+		srcvar2 $smoothnessmidpoint
+		resultvar $envmapintensity
+	}
+	Clamp
+	{
+		min 0
+		max $smoothnessmidpoint
+		srcvar1 $envmapintensity
+		resultvar $envmapintensity
+	}
+	Divide
+	{
+		srcvar1 $envmapintensity
+		srcvar2 $smoothnessmidpoint
+		resultvar $envmapintensity
+	}
+	Multiply
+	{
+		srcvar1 $envmapintensity
+		srcvar2 $metalness
+		resultvar "$envmaptint[0]"
+	}
+	Multiply
+	{
+		srcvar1 $envmapintensity
+		srcvar2 $metalness
+		resultvar "$envmaptint[1]"
+	}
+	Multiply
+	{
+		srcvar1 $envmapintensity
+		srcvar2 $metalness
+		resultvar "$envmaptint[2]"
+	}
+	Subtract
+	{
+		srcvar1 $one
+		srcvar2 $envmapintensity
+		resultvar $rimlightintensity
+	}
+	Multiply
+	{
+		srcvar1 $phongintensity
+		srcvar2 $rimlightintensity
+		resultvar "$phongtint[0]"
+	}
+	Multiply
+	{
+		srcvar1 $phongintensity
+		srcvar2 $rimlightintensity
+		resultvar "$phongtint[1]"
+	}
+	Multiply
+	{
+		srcvar1 $phongintensity
+		srcvar2 $rimlightintensity
+		resultvar "$phongtint[2]"
+	}
+	Divide
+	{
+		srcvar1 $eight
+		srcvar2 $rimlightintensity
+		resultvar $phongboost
+	}
+	LessOrEqual
+	{
+		lessequalvar $zero
+		greatervar $one
+		srcvar1 $maxsmoothness
+		srcvar2 $phongexponent
+		resultvar $rimlight
+	}
+}
+}
