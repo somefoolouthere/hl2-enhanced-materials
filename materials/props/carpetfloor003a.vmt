@@ -1,1 +1,9 @@
-LightmappedGeneric { $basetexture props/carpetfloor003a $surfaceprop carpet $phong	1 $phongexponent 3 $phongamount "[.03 .03 .03 1]" $phongmaskcontrastbrightness "[.5 0]" }
+LightmappedGeneric
+{
+$basetexture props/carpetfloor003a
+$surfaceprop carpet
+$phong	1
+$phongexponent 3
+$phongamount "[.12 .12 .12 1]"
+$phongmaskcontrastbrightness "[.6 0]"
+}

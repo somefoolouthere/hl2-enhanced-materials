@@ -6,9 +6,9 @@ $detail detail/noise_detail_01
 $detailscale 7.74
 $detailblendfactor .8
 $detailblendmode 0
-%keywords "c17downtown,wasteland"
+%keywords c17downtown,wasteland
 $phong	1
 $phongexponent 2
-$phongamount "[.02 .02 .02 1]"
+$phongamount "[.08 .08 .08 1]"
 $phongmaskcontrastbrightness "[.1 0]"
 }

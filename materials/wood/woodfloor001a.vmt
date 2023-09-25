@@ -3,9 +3,9 @@ LightmappedGeneric
 $basetexture wood/woodfloor001a
 $bumpmap	wood/woodfloor001a_normal
 $surfaceprop wood
-%keywords "c17downtown,c17industrial,wasteland"
+%keywords c17downtown,c17industrial,wasteland
 $phong	1
 $phongexponent 2
-$phongamount "[.02 .02 .02 1]"
+$phongamount "[.08 .08 .08 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }

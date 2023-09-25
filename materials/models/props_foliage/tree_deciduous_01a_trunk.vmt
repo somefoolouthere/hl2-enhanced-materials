@@ -5,12 +5,12 @@ $bumpmap	null-bumpmap
 $surfaceprop wood
 $nocull 1
 $phong 1
-$phongboost 1
+$phongboost 4
 $phongexponent 1
 $phongfresnelranges "[.01 .505 1]"
+$phongtint "[.01 .01 .01]"
+$phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
 $rimlightexponent 100
-$phongtint "[.01 .01 .01]"
-$phongdisablehalflambert 1
 }

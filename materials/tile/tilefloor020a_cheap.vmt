@@ -9,6 +9,6 @@ $envmaptint "[.45 .45 .45]"
 $fresnelreflection .45
 $phong 1
 $phongexponent 256
-$phongamount "[1.8 1.8 1.8 1]"
+$phongamount "[4.608 4.608 4.608 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }

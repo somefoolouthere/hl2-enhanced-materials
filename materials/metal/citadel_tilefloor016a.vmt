@@ -7,13 +7,13 @@ $surfaceprop metal
 $envmap env_cubemap
 $envmaptint "[.6 .6 .6]"
 $normalmapalphaenvmapmask 1
-$fresnelreflection 1
+$fresnelreflection .6
 $detail detail/noise_detail_01
 $detailscale 4.283
 $detailblendfactor .3
 $detailblendmode 0
 $phong	1
 $phongexponent 256
-$phongamount "[2.4 2.4 2.4 1]"
+$phongamount "[6.144 6.144 6.144 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }

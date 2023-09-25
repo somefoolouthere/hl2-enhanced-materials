@@ -2,8 +2,9 @@ LightmappedGeneric
 {
 $basetexture nature/snowfloor001a
 $surfaceprop snow
+$nocull 1
 $phong	1
-$phongexponent 90
-$phongamount "[.9 .9 .9 1]"
+$phongexponent 80
+$phongamount "[3.2 3.2 3.2 1]"
 $phongmaskcontrastbrightness "[.9 0]"
 }

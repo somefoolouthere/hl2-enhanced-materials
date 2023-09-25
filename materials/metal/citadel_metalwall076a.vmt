@@ -6,7 +6,7 @@ $surfaceprop metal
 $envmap env_cubemap
 $basealphaenvmapmask 1
 $envmaptint "[.09 .09 .09]"
-$fresnelreflection 1
+$fresnelreflection .09
 $phong	1
 $phongexponent 256
 $phongamount "[.36 .36 .36 1]"

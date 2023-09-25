@@ -6,10 +6,10 @@ $surfaceprop glass
 $envmap env_cubemap
 $envmaptint "[.25 .25 .25]"
 $envmapmask glass/combineglass001a_mask
-$fresnelreflection 1
+$fresnelreflection .25
 $translucent 1
 $phong	1
 $phongexponent 256
-$phongamount "[.64 .64 .64 1]"
+$phongamount "[1 1 1 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }

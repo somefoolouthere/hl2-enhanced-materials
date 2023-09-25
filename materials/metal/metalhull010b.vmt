@@ -9,6 +9,6 @@ $detailblendmode 0
 %keywords borealis
 $phong	1
 $phongexponent 25
-$phongamount "[.25 .25 .25 1]"
+$phongamount "[1 1 1 1]"
 $phongmaskcontrastbrightness "[.5 0]"
 }

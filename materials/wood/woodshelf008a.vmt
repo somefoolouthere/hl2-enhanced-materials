@@ -5,6 +5,6 @@ $surfaceprop wood
 %keywords c17skyscraper
 $phong	1
 $phongexponent 2
-$phongamount "[.02 .02 .02 1]"
+$phongamount "[.08 .08 .08 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }

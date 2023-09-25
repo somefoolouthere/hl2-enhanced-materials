@@ -10,6 +10,6 @@ $fresnelreflection .6
 %keywords combine
 $phong	1
 $phongexponent 256
-$phongamount "[2.4 2.4 2.4 1]"
+$phongamount "[6.144 6.144 6.144 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }

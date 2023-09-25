@@ -6,13 +6,13 @@ $nocull 1
 $alphatest 1
 $alphatestreference .4
 $allowalphatocoverage 1
-$phong 1
-$phongboost 1
+$phong	1
+$phongboost 4
 $phongexponent 10
 $phongfresnelranges "[.1 .55 1]"
-$rimlight 1
-$rimlightboost 1
-$rimlightexponent 11
 $phongtint "[.1 .1 .1]"
 $phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 10
 }
