@@ -2,7 +2,7 @@ LightmappedGeneric
 {
 $basetexture plaster/wallpaper002a
 $surfaceprop plaster
-%keywords c17downtown
+%keywords c17downtown,downtown,interior
 $detail detail/plaster_detail_01
 $detailscale 7.283
 $detailblendfactor .8

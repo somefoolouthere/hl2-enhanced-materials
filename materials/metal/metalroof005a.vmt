@@ -3,13 +3,13 @@ LightmappedGeneric
 $basetexture metal/metalroof005a
 $bumpmap	metal/metalroof005a_normal
 $surfaceprop metal
-%keywords c17industrial
+%keywords c17industrial,industrial,exterior
 $envmap env_cubemap
-$envmaptint "[.05 .05 .05]"
+$envmaptint "[.2 .2 .2]"
 $normalmapalphaenvmapmask 1
-$fresnelreflection .05
+$fresnelreflection .2
 $phong	1
 $phongexponent 256
-$phongamount "[.512 .512 .512 1]"
+$phongamount "[.41 .41 .41 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }

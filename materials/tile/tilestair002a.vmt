@@ -2,7 +2,7 @@ LightmappedGeneric
 {
 $basetexture tile/tilestair002a
 $surfaceprop tile
-%keywords c17downtown
+%keywords c17downtown,downtown
 $phong	1
 $phongexponent 100
 $phongamount "[4 4 4 1]"

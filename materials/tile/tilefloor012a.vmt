@@ -3,11 +3,11 @@ LightmappedGeneric
 $baseTexture tile/tilefloor012a
 $bumpmap	tile/tilefloor012b_normal
 $surfaceprop tile
-%keywords borealis
+%keywords borealis,interior,smooth
 $envmap env_cubemap
-$envmaptint "[.25 .25 .25]"
+$envmaptint "[.5 .5 .5]"
 $normalmapalphaenvmapmask 1
-$fresnelreflection 1
+$fresnelreflection .5
 $phong	1
 $phongexponent 256
 $phongamount "[2.56 2.56 2.56 1]"

@@ -1,12 +1,12 @@
 LightmappedGeneric
 {
-$basetexture concrete/concretewall060c
+$basetexture stone/stonewall050c
 $surfaceprop concrete
+%keywords c17downtown,downtown,exterior,freespace
 $detail detail/noise_detail_01
 $detailscale 7.345
-$detailblendfactor .6
+$detailblendfactor .8
 $detailblendmode 0
-%keywords airexchange,exterior
 $phong	1
 $phongexponent 1
 $phongamount "[.04 .04 .04 1]"

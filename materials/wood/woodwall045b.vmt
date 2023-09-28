@@ -2,9 +2,9 @@ LightmappedGeneric
 {
 $basetexture wood/woodwall045b
 $surfaceprop wood
-%keywords wasteland
+%keywords wasteland,painted,exterior
 $phong	1
 $phongexponent 8
 $phongamount "[.32 .32 .32 1]"
-$phongmaskcontrastbrightness "[.1 0]"
+$phongmaskcontrastbrightness "[.2 0]"
 }

@@ -3,12 +3,13 @@ LightmappedGeneric
 $basetexture tile/tileroof003a
 $bumpmap	tile/tileroof003a_normal
 $surfaceprop tile
-%keywords c17downtown
+%keywords c17downtown,downtown,exterior
 $envmap env_cubemap
+$envmaptint "[.3 .3 .3]"
 $normalmapalphaenvmapmask 1
-$envmaptint "[.1 .1 .1]"
+$fresnelreflection .3
 $phong	1
 $phongexponent 256
-$phongamount "[1.024 1.024 1.024 1]"
+$phongamount "[.922 .922 .922 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }

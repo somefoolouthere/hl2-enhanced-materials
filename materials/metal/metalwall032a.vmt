@@ -9,7 +9,7 @@ $detailscale 4.283
 $detailblendfactor .8
 $detailblendmode 0
 $phong	1
-$phongexponent 6
-$phongamount "[.24 .24 .24 1]"
+$phongexponent 1
+$phongamount "[.4 .4 .4 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }

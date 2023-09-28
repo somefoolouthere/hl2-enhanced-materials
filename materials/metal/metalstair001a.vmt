@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+$basetexture metal/metalstair001a
+$surfaceprop metal
+%keywords c17downtown,downtown.interior,slope
+$phong	1
+$phongexponent 5
+$phongamount "[.2 .2 .2 1]"
+$phongmaskcontrastbrightness "[.2 0]"
+}

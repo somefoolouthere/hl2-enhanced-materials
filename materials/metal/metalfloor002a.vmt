@@ -1,0 +1,14 @@
+LightmappedGeneric
+{
+$basetexture metal/metalfloor002a
+$surfaceprop metal
+$detail detail/metal_detail_01
+$detailscale 4.283
+$detailblendfactor .65
+$detailblendmode 0
+%keywords borealis
+$phong	1
+$phongexponent 5
+$phongamount "[.2 .2 .2 1]"
+$phongmaskcontrastbrightness "[.5 0]"
+}

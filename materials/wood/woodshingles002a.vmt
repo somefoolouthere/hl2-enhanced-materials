@@ -2,9 +2,9 @@ LightmappedGeneric
 {
 $basetexture wood/woodshingles002a
 $surfaceprop wood
-%keywords c17downtown,wasteland
+%keywords c17downtown,wasteland,downtown,exterior,roof
 $phong	1
-$phongexponent 4
-$phongamount "[.16 .16 .16 1]"
-$phongmaskcontrastbrightness "[.5 0]"
+$phongexponent 2
+$phongamount "[.08 .08 .08 1]"
+$phongmaskcontrastbrightness "[.8 0]"
 }

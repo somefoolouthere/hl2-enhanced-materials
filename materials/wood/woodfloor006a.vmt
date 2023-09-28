@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+$basetexture wood/woodfloor006a
+$surfaceprop wood
+%keywords c17skyscraper,exterior
+$phong	1
+$phongexponent 2
+$phongamount "[.08 .08 .08 1]"
+$phongmaskcontrastbrightness "[.4 0]"
+}

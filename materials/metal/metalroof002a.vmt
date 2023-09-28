@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+$basetexture metal/metalroof002a
+$surfaceprop metal
+%keywords c17industrial,industrial,door
+$phong	1
+$phongexponent 5
+$phongamount "[.2 .2 .2 1]"
+$phongmaskcontrastbrightness "[.5 0]"
+}

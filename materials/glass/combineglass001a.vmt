@@ -4,12 +4,12 @@ $basetexture glass/combineglass001a
 $surfaceprop glass
 %keywords c17industrial
 $envmap env_cubemap
-$envmaptint "[.25 .25 .25]"
+$envmaptint "[.5 .5 .5]"
 $envmapmask glass/combineglass001a_mask
-$fresnelreflection .25
+$fresnelreflection .5
 $translucent 1
 $phong	1
 $phongexponent 256
-$phongamount "[1 1 1 1]"
+$phongamount "[2.56 2.56 2.56 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }

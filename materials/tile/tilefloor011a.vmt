@@ -3,12 +3,13 @@ LightmappedGeneric
 $basetexture tile/tilefloor011a
 $bumpmap	tile/tilefloor011a_normal
 $surfaceprop tile
+%keywords interior,smooth,freespace
 $envmap env_cubemap
-$envmaptint "[.2 .2 .2]"
+$envmaptint "[.4 .4 .4]"
 $normalmapalphaenvmapmask 1
-$fresnelreflection 1
+$fresnelreflection .4
 $phong	1
 $phongexponent 256
-$phongamount "[2.048 2.048 2.048 1]"
+$phongamount "[1.638 1.638 1.638 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }

@@ -6,5 +6,5 @@ $surfaceprop metal
 $phong	1
 $phongexponent 10
 $phongamount "[.4 .4 .4 1]"
-$phongmaskcontrastbrightness "[.1 0]"
+$phongmaskcontrastbrightness "[.7 0]"
 }

@@ -6,7 +6,7 @@ $detail detail/noise_detail_01
 $detailscale 7.345
 $detailblendfactor .6
 $detailblendmode 0
-%keywords c17industrial
+%keywords c17industrial,industrial,tile,exterior,interior,freespace
 $phong	1
 $phongexponent 1
 $phongamount "[.04 .04 .04 1]"

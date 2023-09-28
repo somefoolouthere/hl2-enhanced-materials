@@ -1,14 +1,14 @@
 LightmappedGeneric
 {
-$basetexture concrete/concretewall060c
+$basetexture concrete/concretewall008c
 $surfaceprop concrete
 $detail detail/noise_detail_01
 $detailscale 7.345
 $detailblendfactor .6
 $detailblendmode 0
-%keywords airexchange,exterior
+%keywords c17sewers
 $phong	1
 $phongexponent 1
 $phongamount "[.04 .04 .04 1]"
-$phongmaskcontrastbrightness "[.2 0]"
+$phongmaskcontrastbrightness "[.1 0]"
 }

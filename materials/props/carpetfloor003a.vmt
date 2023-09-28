@@ -2,6 +2,7 @@ LightmappedGeneric
 {
 $basetexture props/carpetfloor003a
 $surfaceprop carpet
+%keywords interior
 $phong	1
 $phongexponent 3
 $phongamount "[.12 .12 .12 1]"

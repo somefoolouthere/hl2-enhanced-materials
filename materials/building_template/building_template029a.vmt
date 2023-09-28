@@ -2,6 +2,7 @@ LightmappedGeneric
 {
 $basetexture building_template/building_template029a
 $surfaceprop concrete
+%keywords wall,brick,exterior,freespace
 $detail detail/plaster_detail_01
 $detailscale 8.283
 $detailblendfactor 1.2
@@ -9,5 +10,5 @@ $detailblendmode 0
 $phong	1
 $phongexponent 4
 $phongamount "[.16 .16 .16 1]"
-$phongmaskcontrastbrightness "[.1 0]"
+$phongmaskcontrastbrightness "[.2 0]"
 }

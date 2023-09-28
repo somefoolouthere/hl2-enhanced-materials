@@ -1,14 +1,14 @@
 LightmappedGeneric
 {
-$basetexture brick/brickwall048i
-$bumpmap	brick/brickwall048i_normal
+$basetexture brick/brickwall048a
+$bumpmap brick/brickwall048a_normal
 $surfaceprop brick
 $detail detail/noise_detail_01
 $detailscale 7.74
 $detailblendfactor .8
 $detailblendmode 0
 %keywords wasteland,exterior
-$parallaxmap brick/brickwall048i_height
+$parallaxmap brick/brickwall048a_height
 $parallaxmapscale .005
 $phong	1
 $phongexponent 2

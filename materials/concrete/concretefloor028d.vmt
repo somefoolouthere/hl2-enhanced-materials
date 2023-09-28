@@ -7,13 +7,13 @@ $detail detail/noise_detail_01
 $detailscale 7.345
 $detailblendfactor .6
 $detailblendmode 0
-%keywords c17downtown
+%keywords c17downtown,downtown,sidewalk,exterior,freespace
 $envmap env_cubemap
-$envmaptint "[.05 .05 .05]"
+$envmaptint "[.2 .2 .2]"
 $normalmapalphaenvmapmask 1
-$fresnelreflection 1
+$fresnelreflection .2
 $phong	1
 $phongexponent 256
-$phongamount "[.128 .128 .128 1]"
+$phongamount "[.41 .41 .41 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }

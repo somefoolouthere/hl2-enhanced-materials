@@ -7,13 +7,13 @@ $detail detail/plaster_detail_01
 $detailscale 6.783
 $detailblendfactor .8
 $detailblendmode 0
-%keywords c17downtown
+%keywords c17downtown,downtown,interior,wood
 $envmap env_cubemap
-$envmaptint "[.1 .1 .1]"
+$envmaptint "[.3 .3 .3]"
 $normalmapalphaenvmapmask 1
-$fresnelreflection 1
+$fresnelreflection .3
 $phong	1
 $phongexponent 256
-$phongamount "[.256 .256 .256 1]"
+$phongamount "[.922 .922 .922 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }

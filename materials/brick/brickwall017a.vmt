@@ -1,14 +1,14 @@
 LightmappedGeneric
 {
-$basetexture stone/stonewall050b
-$surfaceprop concrete
-%keywords c17downtown,downtown
+$basetexture brick/brickwall017a
+$surfaceprop brick
 $detail detail/noise_detail_01
-$detailscale 7.345
+$detailscale 7.74
 $detailblendfactor .8
 $detailblendmode 0
+%keywords c17sewers
 $phong	1
 $phongexponent 1
 $phongamount "[.04 .04 .04 1]"
-$phongmaskcontrastbrightness "[.2 0]"
+$phongmaskcontrastbrightness "[.3 0]"
 }
