@@ -3,7 +3,7 @@ LightmappedGeneric
 $basetexture tile/tilefloor016a
 $bumpmap	tile/tilefloor021a_normal
 $surfaceprop metal
-%keywords combine
+%keywords combine,smooth
 $envmap env_cubemap
 $envmaptint "[.6 .6 .6]"
 $normalmapalphaenvmapmask 1

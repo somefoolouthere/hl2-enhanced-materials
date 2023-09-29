@@ -3,7 +3,7 @@ LightmappedGeneric
 $basetexture stone/stonefloor011a
 $bumpmap	stone/stonefloor011a_normal
 $surfaceprop concrete
-%keywords c17downtown,wasteland,downtown
+%keywords c17downtown,wasteland,downtown,rough,exterior
 $detail detail/noise_detail_01
 $detailscale 7.345
 $detailblendfactor .8

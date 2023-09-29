@@ -7,7 +7,7 @@ $basetexturetransform	"center .5 .5 scale 1 1 rotate 0 translate 0 0"
 $basetexturetransform2	"center .5 .5 scale 2 2 rotate 0 translate 0 0"
 %tooltexture nature/blenddirtgrass006a_tooltexture
 %detailtype coastline_grass01
-%keywords coastline,ground,exterior
+%keywords coastline,ground,exterior,hl2
 $surfaceprop dirt
 $nocull 1
 $bumpbasetexture2withbumpmap 0

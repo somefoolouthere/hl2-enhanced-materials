@@ -2,6 +2,7 @@ LightmappedGeneric
 {
 $basetexture building_template/roof_template001a
 $bumpmap	building_template/roof_template001a_normal
+%keywords exterior,rough
 $surfaceprop concrete
 $phong	1
 $phongexponent 5

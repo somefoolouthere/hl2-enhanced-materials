@@ -2,6 +2,7 @@ Water
 {
 $abovewater 1
 %compilewater 1
+%keywords hl2
 $forceexpensive 1
 $reflectentities 0
 $envmap env_cubemap

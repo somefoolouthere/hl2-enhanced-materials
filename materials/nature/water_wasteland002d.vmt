@@ -1,15 +1,8 @@
 Water
 {
-Water_DX60
-{
-$fallbackmaterial nature/water_dx70_opaq
-}
-Water_DX80
-{
-$refractamount .5
-}
 $abovewater 1
 %compilewater 1
+%keywords hl2
 $bottommaterial dev/dev_waterbeneath2
 %tooltexture nature/water002a
 $forcecheap 0

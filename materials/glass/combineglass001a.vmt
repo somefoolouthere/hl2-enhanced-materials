@@ -2,7 +2,7 @@ LightmappedGeneric
 {
 $basetexture glass/combineglass001a
 $surfaceprop glass
-%keywords c17industrial
+%keywords c17industrial,industrial,window
 $envmap env_cubemap
 $envmaptint "[.5 .5 .5]"
 $envmapmask glass/combineglass001a_mask
