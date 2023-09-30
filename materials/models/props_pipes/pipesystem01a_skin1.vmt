@@ -1,6 +1,6 @@
 VertexLitGeneric
 {
-$basetexture models/props_pipes/Pipesystem01a_skin1
+$basetexture models/props_pipes/pipesystem01a_skin1
 $surfaceprop metal
 $nocull 1
 }

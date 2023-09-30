@@ -1,6 +1,6 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$basetexture" "Models/props_trainstation/trainstation_ornament001"
-	"$surfaceprop" "metal"
-	$nocull 1
+$basetexture models/props_trainstation/trainstation_ornament001
+$surfaceprop metal
+$nocull 1
 }

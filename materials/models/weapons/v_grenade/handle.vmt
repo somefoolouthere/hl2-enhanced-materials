@@ -1,12 +1,12 @@
 vertexlitgeneric
 {
 $basetexture Models/Weapons/V_grenade/handle
-$bumpmap models/weapons/v_grenade/handle_normal
+$bumpmap	models/weapons/v_grenade/handle_normal
 $envmap env_cubemap
 $envmaptint "[.1 .1 .1]"
 $envmapfresnel 1
 $phong	1
-$phongboost 2.56
+$phongboost 10.24
 $phongexponent 256
 $phongfresnelranges "[.1 .55 1]"
 $phongtint "[.1 .1 .1]"

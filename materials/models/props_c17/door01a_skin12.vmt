@@ -6,12 +6,12 @@ $surfaceprop wood
 %keywords c17downtown
 $envmap env_cubemap
 $envmaptint "[.3 .3 .3]"
+$envmapfresnel 1
 $normalmapalphaenvmapmask 1
 $detail detail/plaster_detail_01
 $detailscale 5.545
 $detailblendfactor .6
 $detailblendmode 0
-$envmapfresnel 1
 $phong	1
 $phongboost 10.24
 $phongexponent 256

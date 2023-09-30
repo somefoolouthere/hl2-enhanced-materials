@@ -1,13 +1,13 @@
 VertexLitGeneric
 {
-	$basetexture Models/props_trainstation/train001
-	$surfaceprop metal
-	$envmaptint "[.2 .2 .2]"
-	$envmap env_cubemap
-	$basealphaenvmapmask 1
-	$detail detail\metal_detail_01
-	$detailscale 14.345
-	$detailblendfactor .6
-	$detailblendmode 0
-	$nocull 1
+$basetexture models/props_trainstation/train001
+$surfaceprop metal
+$envmap env_cubemap
+$envmaptint "[.2 .2 .2]"
+$basealphaenvmapmask 1
+$detail detail/metal_detail_01
+$detailscale 14.345
+$detailblendfactor .6
+$detailblendmode 0
+$nocull 1
 }

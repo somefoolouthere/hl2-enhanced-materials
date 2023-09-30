@@ -4,7 +4,7 @@ $basetexture models/props_foliage/tree_deciduous_01a_trunk
 $bumpmap	null-bumpmap
 $surfaceprop wood
 $nocull 1
-$phong 1
+$phong	1
 $phongboost 4
 $phongexponent 1
 $phongfresnelranges "[.01 .505 1]"

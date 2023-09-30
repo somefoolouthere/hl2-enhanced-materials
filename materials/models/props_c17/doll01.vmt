@@ -4,11 +4,11 @@ $basetexture models/props_c17/doll01
 $bumpmap	null-bumpmap
 $phong	1
 $phongboost 4
-$phongexponent 20
-$phongfresnelranges "[.2 .6 1]"
-$phongtint "[.2 .2 .2]"
+$phongexponent 50
+$phongfresnelranges "[.5 .75 1]"
+$phongtint "[.5 .5 .5]"
 $phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
-$rimlightexponent 5
+$rimlightexponent 2
 }

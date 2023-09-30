@@ -1,5 +1,5 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$baseTexture" "Models/props_lab/lab_hose001"
-	$nocull 1
+$basetexture models/props_lab/lab_hose001
+$nocull 1
 }

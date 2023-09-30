@@ -2,7 +2,7 @@ Refract
 {
 $model	1
 $refractamount .2
-$bluramount 1
+$bluramount 0
 $REFRACTTINT "{255 200 110}"
 $scale	"[1 1]"
 $dudvmap dev/water_dudv

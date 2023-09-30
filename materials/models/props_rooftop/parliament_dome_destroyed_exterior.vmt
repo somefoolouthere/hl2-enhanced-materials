@@ -1,6 +1,6 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$baseTexture" "models/props_rooftop/parliament_dome_destroyed_exterior"
-	"$surfaceprop" "concrete"
-	$nocull 1
+$basetexture models/props_rooftop/parliament_dome_destroyed_exterior
+$surfaceprop concrete
+$nocull 1
 }

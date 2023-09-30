@@ -5,7 +5,7 @@ $bumpmap	null-bumpmap
 $surfaceprop metal
 $nocull 1
 $phong	1
-$phongboost 1
+$phongboost 4
 $phongexponent 2
 $phongfresnelranges "[.02 .51 1]"
 $phongtint "[.02 .02 .02]"

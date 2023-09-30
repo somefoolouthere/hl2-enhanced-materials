@@ -7,13 +7,13 @@ $envmap env_cubemap
 $nocull 1
 $phong	1
 $phongboost 4
-$phongexponent 20
-$phongfresnelranges "[.2 .6 1]"
-$phongtint "[.2 .2 .2]"
+$phongexponent 30
+$phongfresnelranges "[.3 .65 1]"
+$phongtint "[.3 .3 .3]"
 $phongdisablehalflambert 1
 $basemapalphaphongmask 1
 $invertphongmask 1
 $rimlight	1
 $rimlightboost 1
-$rimlightexponent 5
+$rimlightexponent 3.33
 }

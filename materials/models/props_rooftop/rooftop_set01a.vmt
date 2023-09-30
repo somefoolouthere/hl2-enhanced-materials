@@ -1,20 +1,9 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$basetexture" "Models/props_rooftop/RoofTop_Set01a"
-	"$surfaceprop" "wood"
-  	"$envmap" "env_cubemap"
-	"$envmapmask" "Models/props_rooftop/RoofTop_Set01a_mask"
-	//"$envmaptint" "[ .5 .5 .5]"
-        "$alphatest" 1
-	//"$envmapcontrast" "1"
-	//"$envmapsaturation" "[.8 .8 .8]"
-	//"$translucent" 1
-	//"nomip" "1"
-	$nocull 1
+$basetexture models/props_rooftop/rooftop_set01a
+$surfaceprop wood
+$envmap env_cubemap
+$envmapmask models/props_rooftop/rooftop_set01a_mask
+$alphatest 1
+$nocull 1
 }
-
-
-
-
-
-

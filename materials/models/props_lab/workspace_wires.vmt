@@ -6,7 +6,7 @@ $nocull 1
 $alphatest 1
 $alphatestreference .4
 $phong	1
-$phongboost 1
+$phongboost 4
 $phongexponent 25
 $phongfresnelranges "[.25 .625 1]"
 $phongtint "[.25 .25 .25]"

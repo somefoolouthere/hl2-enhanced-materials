@@ -1,13 +1,10 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$basetexture" "Models/props_interiors/Sconce01a"
-	"$envmap" "env_cubemap"
-	"$envmapmask" "Models/props_interiors/Sconce01a_mask"
-	//"$envmaptint" "[ .7 .7 .7]"
-	"$envmapcontrast" "1"
-	"$envmapsaturation" "[.5 .5 .5]"
-	"$surfaceprop" "glass"	
-	$nocull 1
+$basetexture models/props_interiors/sconce01a
+$envmap env_cubemap
+$envmapmask models/props_interiors/sconce01a_mask
+$envmapcontrast 1
+$envmapsaturation "[.5 .5 .5]"
+$surfaceprop glass
+$nocull 1
 }
-
-

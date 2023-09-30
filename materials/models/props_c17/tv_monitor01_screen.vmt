@@ -9,7 +9,7 @@ $envmap env_cubemap
 $envmaptint "[.5 .5 .5]"
 $envmapfresnel 1
 $phong	1
-$phongboost 2.56
+$phongboost 10.24
 $phongexponent 256
 $phongfresnelranges "[.5 .75 1]"
 $phongtint "[.5 .5 .5]"

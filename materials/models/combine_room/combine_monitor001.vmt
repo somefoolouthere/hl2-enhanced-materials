@@ -4,7 +4,7 @@ $basetexture models/combine_room/combine_monitor001
 $surfaceprop metal
 $envmap env_cubemap
 $envmaptint "[.35 .35 .35]"
-$envmapmask models/Combine_Camera/combine_camera001_mask
+$envmapmask models/combine_camera/combine_camera001_mask
 $selfillum 1
 $nocull 1
 }
