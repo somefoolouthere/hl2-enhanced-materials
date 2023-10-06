@@ -1,18 +1,14 @@
 VertexLitGeneric
 {
-$basetexture models/props_c17/chair_kleiner03a
+$basetexture models/props_combine/breenchair_sheet
 $bumpmap	null-bumpmap
-$surfaceprop metal
-$envmap env_cubemap
-$nocull 1
+$surfaceprop plastic
 $phong	1
-$phongboost 4
+$phongboost 2.56
 $phongexponent 20
 $phongfresnelranges "[.2 .6 1]"
 $phongtint "[.2 .2 .2]"
 $phongdisablehalflambert 1
-$basemapalphaphongmask 1
-$invertphongmask 1
 $rimlight	1
 $rimlightboost 1
 $rimlightexponent 5

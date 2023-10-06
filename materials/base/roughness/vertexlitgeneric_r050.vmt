@@ -3,7 +3,7 @@ VertexLitGeneric
 $basetexture vgui/black
 $bumpmap	null-bumpmap
 $phong	1
-$phongboost 1
+$phongboost 4
 $phongexponent 50
 $phongfresnelranges "[.5 .75 1]"
 $phongtint "[.5 .5 .5]"

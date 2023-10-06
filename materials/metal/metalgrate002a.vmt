@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+$basetexture metal/metalgrate002a
+%compilepassbullets 1
+$surfaceprop metalgrate
+$alphatest 1
+%keywords c17industrial,industrial,exterior
+$phong	1
+$phongexponent 4
+$phongamount "[.16 .16 .16 1]"
+$phongmaskcontrastbrightness "[.5 0]"
+}

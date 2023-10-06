@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+$basetexture plaster/plasterwall034c
+$bumpmap	plaster/plasterwall034c_normal
+$surfaceprop plaster
+%keywords c17downtown
+$envmap env_cubemap
+$envmapcontrast 1
+$envmaptint "[.25 .25 .25 ]"
+$normalmapalphaenvmapmask 1
+$nocull 1
+}
