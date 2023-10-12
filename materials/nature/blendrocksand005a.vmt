@@ -1,0 +1,19 @@
+WorldVertexTransition
+{
+$basetexture nature/rockwall011d
+$basetexture2 nature/sandfloor009a
+$bumpmap2	nature/sandfloor009a_normal
+%tooltexture nature/blendrocksand005a_tooltexture
+$basetexturetransform "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+$basetexturetransform2 "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+$surfaceprop rock
+%keywords coastline
+$nocull 1
+$phong	1
+$phongexponent 1
+$phongexponent2 5
+$phongamount "[.04 .04 .04 1]"
+$phongamount2 "[.2 .2 .2 1]"
+$phongmaskcontrastbrightness "[.5 0]"
+$phongmaskcontrastbrightness2 "[0 0]"
+}

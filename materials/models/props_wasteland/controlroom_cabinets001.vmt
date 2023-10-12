@@ -1,12 +1,25 @@
 VertexLitGeneric
 {
-$basetexture Models/props_wasteland/controlroom_cabinets001
+$basetexture models/props_wasteland/controlroom_cabinets001
+$bumpmap	null-bumpmap
 $surfaceprop metal
 $envmap env_cubemap
+$envmaptint "[.5 .5 .5]"
 $basealphaenvmapmask 1
 $detail detail/metal_detail_01
 $detailscale 6.545
 $detailblendfactor .5
 $detailblendmode 0
 $nocull 1
+$phong	1
+$phongboost 4
+$phongexponent 20
+$phongfresnelranges "[.2 .6 1]"
+$phongtint "[.2 .2 .2]"
+$phongdisablehalflambert 1
+$basemapalphaphongmask 1
+$invertphongmask 1
+$rimlight	1
+$rimlightboost 1
+$rimlightexponent 5
 }

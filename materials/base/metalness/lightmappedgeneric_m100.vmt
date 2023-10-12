@@ -4,6 +4,6 @@ $basetexture vgui/black
 $envmap env_cubemap
 $phong 1
 $phongexponent 256
-$phongamount "[2.56 2.56 2.56 1]"
+$phongamount "[10.24 10.24 10.24 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }

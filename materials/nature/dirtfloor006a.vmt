@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+$basetexture nature/dirtfloor006a
+%keywords hl2,ground,exterior
+$surfaceprop dirt
+$nocull 1
+$phong	1
+$phongexponent 5
+$phongamount "[.2 .2 .2 1]"
+$phongmaskcontrastbrightness "[.9 0]"
+}

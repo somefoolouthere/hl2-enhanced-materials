@@ -1,0 +1,22 @@
+WorldVertexTransition
+{
+$basetexture nature/sandfloor009b
+$basetexturetransform "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+$basetexture2 nature/sandfloor009a
+$basetexturetransform2 "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+$bumpmap	nature/sandfloor009a_normal
+$surfaceprop antlionsand
+$surfaceprop2 antlionsand
+$detail overlays/macro01a
+$detailscale .1
+%tooltexture nature/blendsandsand008b_tooltexture
+%keywords coastline
+$nocull 1
+$phong	1
+$phongexponent 70
+$phongexponent2 5
+$phongamount "[7.168 7.168 7.168 1]"
+$phongamount2 "[.2 .2 .2 1]"
+$phongmaskcontrastbrightness "[0 0]"
+$phongmaskcontrastbrightness2 "[0 0]"
+}

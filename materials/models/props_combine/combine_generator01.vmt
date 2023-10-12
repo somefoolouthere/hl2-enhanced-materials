@@ -10,7 +10,7 @@ $envmaptint "[.4 .4 .4]"
 $envmapfresnel 1
 $normalmapalphaenvmapmask 1
 $phong	1
-$phongboost 2.56
+$phongboost 10.24
 $phongexponent 256
 $phongfresnelranges "[.4 .7 1]"
 $phongtint "[.4 .4 .4]"

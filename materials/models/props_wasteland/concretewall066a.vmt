@@ -1,6 +1,7 @@
 VertexLitGeneric
 {
 $basetexture concrete/concretewall066a
+$bumpmap	null-bumpmap
 $surfaceprop concrete
 %keywords coastline
 $detail detail/noise_detail_01
@@ -8,4 +9,13 @@ $detailscale 19.74
 $detailblendfactor 1
 $detailblendmode 0
 $nocull 1
+$phong	1
+$phongboost 4
+$phongexponent 1
+$phongfresnelranges "[.01 .505 1]"
+$phongtint "[.01 .01 .01]"
+$phongdisablehalflambert 1
+$rimlight	1
+$rimlightboost 1
+$rimlightexponent 100
 }

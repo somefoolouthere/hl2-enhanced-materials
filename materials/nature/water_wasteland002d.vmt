@@ -2,7 +2,7 @@ Water
 {
 $abovewater 1
 %compilewater 1
-%keywords hl2
+%keywords hl2,liquid
 $bottommaterial dev/dev_waterbeneath2
 %tooltexture nature/water002a
 $forcecheap 0

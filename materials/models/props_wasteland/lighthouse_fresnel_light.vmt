@@ -1,14 +1,14 @@
 Refract
 {
+$dudvmap	models/props_wasteland/lighthouse_fresnel_light_dudv
+$normalmap	models/props_wasteland/lighthouse_fresnel_light_normal
 $model	1
-$bluramount 1
+$bluramount 0
 $surfaceprop glass
 $refractamount 2
 $REFRACTTINT "{245 232 180}"
 $scale	"[1 1]"
-$dudvmap models/props_wasteland\lighthouse_fresnel_light_dudv
-$normalmap models/props_wasteland\lighthouse_fresnel_light_normal
 $envmap env_cubemap
-$envmaptint "[.3 .4 .4]"
+$envmaptint "[.48 .455 .353]"
 $nocull 1
 }

@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+$basetexture nature/rockwall006a
+$bumpmap	nature/rockwall006a_normal
+$surfaceprop concrete
+$nocull 1
+$phong	1
+$phongexponent 1
+$phongamount "[.04 .04 .04 1]"
+$phongmaskcontrastbrightness "[0 0]"
+}

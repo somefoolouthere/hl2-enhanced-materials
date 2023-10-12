@@ -1,0 +1,21 @@
+WorldVertexTransition
+{
+$basetexture	nature/dirtfloor012a
+$basetexturetransform "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+$basetexture2	nature/dirtfloor006a
+$basetexturetransform2 "center .5 .5 scale 1 1 rotate 10 translate 0 0"
+$bumpmap	nature/dirtfloor012a_normal
+$detail overlays/macro01a
+$detailscale .1
+%tooltexture nature/blenddirtgrass008a_tooltexture
+$surfaceprop dirt
+%keywords coastline,ground,exterior,hl2
+$nocull 1
+$phong	1
+$phongexponent 5
+$phongexponent2 5
+$phongamount "[.2 .2 .2 1]"
+$phongamount2 "[.2 .2 .2 1]"
+$phongmaskcontrastbrightness "[.5 0]"
+$phongmaskcontrastbrightness2 "[.9 0]"
+}

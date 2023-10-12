@@ -4,13 +4,14 @@ $basetexture models/props_trainstation/trainstation_ceiling01
 $bumpmap	null-bumpmap
 $alphatest 1
 $surfaceprop metal
+$nodecal 1
 $phong	1
 $phongboost 4
-$phongexponent 1
-$phongfresnelranges "[.01 .505 1]"
-$phongtint "[.01 .01 .01]"
+$phongexponent 10
+$phongfresnelranges "[.1 .55 1]"
+$phongtint "[.1 .1 .1]"
 $phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
-$rimlightexponent 100
+$rimlightexponent 10
 }

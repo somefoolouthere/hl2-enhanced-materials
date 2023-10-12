@@ -9,6 +9,5 @@ $phong	1
 $phongboost 10.24
 $phongexponent 256
 $phongfresnelranges "[1 1 1]"
-$phongtint "[1 1 1]"
 $phongdisablehalflambert 1
 }

@@ -6,7 +6,7 @@ $detail detail/noise_detail_01
 $detailscale 7.74
 $detailblendfactor .8
 $detailblendmode 0
-%keywords c17sewers
+%keywords c17sewers,sewers
 $phong	1
 $phongexponent 1
 $phongamount "[.04 .04 .04 1]"

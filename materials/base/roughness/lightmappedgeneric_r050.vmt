@@ -3,6 +3,6 @@ LightmappedGeneric
 $basetexture vgui/black
 $phong	1
 $phongexponent 50
-$phongamount "[.5 .5 .5 1]"
+$phongamount "[2 2 2 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }

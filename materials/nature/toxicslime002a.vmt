@@ -1,0 +1,39 @@
+LightmappedGeneric
+{
+$basetexture nature/toxicslime002a
+$bumpmap	dev/waterb_normal
+$bumpmap2 dev/waterb_normal
+$bumpmask nature/toxicslime002a_normal
+$bottommaterial nature/toxicslime002a_beneath
+$envmap env_cubemap
+$envmaptint "[.7 .7 .7]"
+$fresnelreflection .7
+$surfaceprop slime
+%keywords wasteland,exterior,liquid,hl2
+%compileSlime 1
+$fogenable 1
+$fogcolor "{29 99 39}"
+$fogstart 1
+$fogend 100
+$phong	1
+$phongexponent 256
+$phongamount "[7.168 7.168 7.168 1]"
+$phongmaskcontrastbrightness "[0 0]"
+Proxies
+{
+TextureScroll
+{
+texturescrollvar $bumptransform
+texturescrollrate .07
+texturescrollangle 100
+texturescale 2.8
+}
+TextureScroll
+{
+texturescrollvar $bumptransform2
+texturescrollrate .05
+texturescrollangle -36
+texturescale 2.4
+}
+}
+}

@@ -1,16 +1,12 @@
-// envmaptint_fix
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$basetexture" "Models/props_combine/combine_bunker01"
-	"$surfaceprop" "metal"
-	"%keywords" "combine"
-	"$bumpmap" "Metal/metalwall077a_normal"
-	"$envmaptint" "[ .56 .67 .75 ]"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-	$nocull 1
+$basetexture models/props_combine/combine_bunker01
+$bumpmap	metal/metalwall077a_normal
+$surfaceprop metal
+%keywords combine
+$envmap env_cubemap
+$envmaptint "[.66 .66 .66]"
+$normalmapalphaenvmapmask 1
+$envmapcontrast 1
+$nocull 1
 }
-
-

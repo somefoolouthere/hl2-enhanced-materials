@@ -3,9 +3,9 @@ LightmappedGeneric
 $basetexture vgui/black
 $envmap env_cubemap
 $envmaptint "[.25 .25 .25]"
-$fresnelreflection 1
+$fresnelreflection .25
 $phong	1
 $phongexponent 256
-$phongamount "[.64 .64 .64 1]"
+$phongamount "[2.56 2.56 2.56 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }
