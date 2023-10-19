@@ -2,7 +2,8 @@ LightmappedGeneric
 {
 $basetexture dev/dev_hazzardstripe01a
 $surfaceprop concrete
-%keywords exterior,smooth
+%keywords exterior,smooth,hl2
+$alphatest 1
 $phong	1
 $phongexponent 100
 $phongamount "[4 4 4 1]"
