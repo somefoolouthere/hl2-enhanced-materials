@@ -5,6 +5,7 @@ $bumpmap null-bumpmap
 $nocull	1
 $alphatest 1
 $alphatestreference .5
+$allowalphatocoverage 1
 $phong	1
 $phongboost 4
 $phongexponent 10
