@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+$basetexture metal/metalrail006a
+$alphatest 1
+%keywords c17downtown,wasteland,hl2,exterior,road
+%compilepassbullets 1
+$surfaceprop metal
+$phong	1
+$phongexponent 10
+$phongamount "[.4 .4 .4 1]"
+$phongmaskcontrastbrightness "[.5 0]"
+}

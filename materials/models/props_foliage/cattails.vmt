@@ -1,0 +1,10 @@
+UnlitGeneric
+{
+$basetexture models/props_foliage/cattails
+$receiveflashlight 1
+$AlphaTest 1
+$AlphaTestReference .55
+$FlashlightNoLambert 1
+$nocull 1
+$model 1
+}

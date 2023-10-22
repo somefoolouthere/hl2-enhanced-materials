@@ -2,9 +2,9 @@ LightmappedGeneric
 {
 $basetexture dev/dev_corrugatedmetal
 $surfaceprop metal
-%keywords roof,exterior
+%keywords roof,exterior,hl2
 $phong	1
 $phongexponent 50
 $phongamount "[2 2 2 1]"
-$phongmaskcontrastbrightness "[.7 0]"
+$phongmaskcontrastbrightness "[.8 0]"
 }

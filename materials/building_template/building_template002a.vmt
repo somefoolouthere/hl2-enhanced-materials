@@ -1,0 +1,14 @@
+LightmappedGeneric
+{
+$basetexture building_template/building_template002a
+%keywords hl2,interior,brick
+$surfaceprop concrete
+$detail detail/plaster_detail_01
+$detailscale 8.283
+$detailblendfactor 1.2
+$detailblendmode 0
+$phong	1
+$phongexponent 1
+$phongamount "[.04 .04 .04 1]"
+$phongmaskcontrastbrightness "[.7 0]"
+}

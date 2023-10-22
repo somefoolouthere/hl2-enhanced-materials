@@ -2,9 +2,9 @@ LightmappedGeneric
 {
 $basetexture metal/metalwall060a
 $surfaceprop metal
-%keywords airexchange,combine
+%keywords airexchange,combine,hl2
 $phong	1
 $phongexponent 50
 $phongamount "[2 2 2 1]"
-$phongmaskcontrastbrightness "[.9 0]"
+$phongmaskcontrastbrightness "[1 0]"
 }
