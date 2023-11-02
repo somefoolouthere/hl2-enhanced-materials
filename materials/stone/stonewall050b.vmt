@@ -2,7 +2,7 @@ LightmappedGeneric
 {
 $basetexture stone/stonewall050b
 $surfaceprop concrete
-%keywords c17downtown,downtown,rough
+%keywords c17downtown,rough,hl2
 $detail detail/noise_detail_01
 $detailscale 7.345
 $detailblendfactor .8

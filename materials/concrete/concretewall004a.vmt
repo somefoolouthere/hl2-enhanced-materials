@@ -7,7 +7,7 @@ $detail detail/noise_detail_01
 $detailscale 7.345
 $detailblendfactor .6
 $detailblendmode 0
-%keywords c17sewers,sewers,exterior,interior,brick
+%keywords c17sewers,exterior,interior,brick,hl2
 $phong	1
 $phongexponent 1
 $phongamount "[.04 .04 .04 1]"

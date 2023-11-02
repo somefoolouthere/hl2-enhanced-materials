@@ -4,7 +4,7 @@ $basetexture models/props_combine/breenchair_sheet
 $bumpmap	null-bumpmap
 $surfaceprop plastic
 $phong	1
-$phongboost 2.56
+$phongboost 4
 $phongexponent 20
 $phongfresnelranges "[.2 .6 1]"
 $phongtint "[.2 .2 .2]"

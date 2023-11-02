@@ -8,8 +8,8 @@ $bumpmap	nature/dirtfloor012a_normal
 $detail overlays/macro01a
 $detailscale .1
 %tooltexture nature/blenddirtgrass008a_tooltexture
+%keywords coastline,exterior,ground,hl2
 $surfaceprop dirt
-%keywords coastline,ground,exterior,hl2
 $nocull 1
 $phong	1
 $phongexponent 5

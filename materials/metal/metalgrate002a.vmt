@@ -4,7 +4,7 @@ $basetexture metal/metalgrate002a
 %compilepassbullets 1
 $surfaceprop metalgrate
 $alphatest 1
-%keywords c17industrial,exterior
+%keywords c17industrial,exterior,hl2
 $phong	1
 $phongexponent 4
 $phongamount "[.16 .16 .16 1]"

@@ -2,7 +2,7 @@ LightmappedGeneric
 {
 $basetexture metal/metaltruss017a
 $surfaceprop metal
-%keywords c17industrial,wasteland,hl2,exterior
+%keywords c17industrial,exterior,hl2,wasteland
 $alphatest 1
 $phong	1
 $phongexponent 80

@@ -2,13 +2,13 @@ LightmappedGeneric
 {
 $basetexture metal/metalwall076a
 $surfaceprop metal
-%keywords combine
+%keywords combine,hl2
 $envmap env_cubemap
 $basealphaenvmapmask 1
 $envmaptint "[.09 .09 .09]"
 $fresnelreflection .09
 $phong	1
 $phongexponent 256
-$phongamount "[.36 .36 .36 1]"
+$phongamount "[.083 .083 .083 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }

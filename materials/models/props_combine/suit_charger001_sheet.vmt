@@ -1,8 +1,18 @@
-"VertexLitGeneric"
+VertexLitGeneric
 {
-	"$basetexture" "Models/props_combine/suit_charger001_sheet"
-	"$surfaceprop" "metal"
-	"$selfillum" "1"
-	"%keywords" "combine"
-	$nocull 1
+$basetexture models/props_combine/suit_charger001_sheet
+$bumpmap	null-bumpmap
+$surfaceprop metal
+$selfillum 1
+%keywords combine
+$nocull 1
+$phong	1
+$phongboost 4
+$phongexponent 20
+$phongfresnelranges "[.2 .6 1]"
+$phongtint "[.2 .2 .2]"
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 5
 }

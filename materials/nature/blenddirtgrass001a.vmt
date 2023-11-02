@@ -6,7 +6,7 @@ $basetexture2	nature/dirtfloor006a
 $basetexturetransform2	"center .5 .5 scale 4 4 rotate 0 translate 0 0"
 $bumpmap	nature/dirtfloor012a_normal
 %tooltexture nature/blenddirtgrass001a_tooltexture
-%keywords wasteland,ground,hl2,exterior
+%keywords wasteland,exterior,ground,hl2
 $surfaceprop dirt
 $detail overlays/macro01a
 $detailscale .1

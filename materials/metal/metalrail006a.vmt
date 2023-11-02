@@ -2,7 +2,7 @@ LightmappedGeneric
 {
 $basetexture metal/metalrail006a
 $alphatest 1
-%keywords c17downtown,wasteland,hl2,exterior,road
+%keywords c17downtown,exterior,hl2,road,wasteland
 %compilepassbullets 1
 $surfaceprop metal
 $phong	1

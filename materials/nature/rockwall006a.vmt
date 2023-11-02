@@ -2,6 +2,7 @@ LightmappedGeneric
 {
 $basetexture nature/rockwall006a
 $bumpmap	nature/rockwall006a_normal
+%keywords hl2
 $surfaceprop concrete
 $nocull 1
 $phong	1

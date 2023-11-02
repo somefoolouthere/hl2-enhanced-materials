@@ -3,7 +3,7 @@ LightmappedGeneric
 $basetexture tile/tilefloor020a
 $bumpmap	tile/tilefloor021a_normal
 $surfaceprop tile
-%keywords combine,exterior,smooth,freespace
+%keywords combine,exterior,smooth,freespace,hl2
 $envmap env_cubemap
 $envmaptint "[.65 .65 .65]"
 $fresnelreflection .65

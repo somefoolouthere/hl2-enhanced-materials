@@ -7,7 +7,7 @@ $detail detail/noise_detail_01
 $detailscale 7.74
 $detailblendfactor .8
 $detailblendmode 0
-%keywords c17downtown,downtown,exterior
+%keywords c17downtown,downtown,exterior,hl2
 $phong	1
 $phongexponent 1
 $phongamount "[.04 .04 .04 1]"

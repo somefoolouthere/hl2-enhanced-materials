@@ -2,7 +2,7 @@ LightmappedGeneric
 {
 $basetexture building_template/building_template007i
 $surfaceprop concrete
-%keywords wall,window,exterior
+%keywords wall,window,exterior,hl2
 $detail detail/plaster_detail_01
 $detailscale 8.283
 $detailblendfactor 1.2

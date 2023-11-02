@@ -6,7 +6,7 @@ $detail detail/metal_detail_01
 $detailscale 4.283
 $detailblendfactor .65
 $detailblendmode 0
-%keywords combine
+%keywords combine,hl2
 $envmap env_cubemap
 $envmaptint "[.5 .5 .5]"
 $basealphaenvmapmask 1

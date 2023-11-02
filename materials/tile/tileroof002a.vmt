@@ -3,7 +3,7 @@ LightmappedGeneric
 $basetexture tile/tileroof002a
 $bumpmap	tile/tileroof003a_normal
 $surfaceprop tile
-%keywords c17downtown,downtown,exterior
+%keywords c17downtown,exterior,hl2
 $envmap env_cubemap
 $envmaptint "[.3 .3 .3]"
 $normalmapalphaenvmapmask 1

@@ -3,7 +3,7 @@ LightmappedGeneric
 $basetexture wood/woodwall009a
 $bumpmap	wood/woodwall009a_normal
 $surfaceprop wood
-%keywords c17downtown,wasteland
+%keywords c17downtown,wasteland,hl2
 $phong	1
 $phongexponent 3
 $phongamount "[.12 .12 .12 1]"

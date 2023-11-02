@@ -3,7 +3,7 @@ LightmappedGeneric
 $basetexture metal/metalgrate016a
 %compilepassbullets 1
 $surfaceprop metalgrate
-%keywords c17industrial
+%keywords c17industrial,hl2
 $alphatest 1
 $phong	1
 $phongexponent 25

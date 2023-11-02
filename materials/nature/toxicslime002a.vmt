@@ -9,7 +9,7 @@ $envmap env_cubemap
 $envmaptint "[.7 .7 .7]"
 $fresnelreflection .7
 $surfaceprop slime
-%keywords wasteland,exterior,liquid,hl2
+%keywords wasteland,exterior,liquid,toxic,hl2
 %compileSlime 1
 $fogenable 1
 $fogcolor "{29 99 39}"

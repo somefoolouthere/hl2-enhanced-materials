@@ -2,7 +2,7 @@ LightmappedGeneric
 {
 $basetexture concrete/concretefloor037a
 $bumpmap	concrete/concretefloor037b_normal
-%keywords coastline
+%keywords coastline,hl2
 $detail detail/noise_detail_01
 $detailscale 7.345
 $detailblendfactor .6

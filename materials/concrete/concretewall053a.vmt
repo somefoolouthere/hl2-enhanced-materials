@@ -1,7 +1,7 @@
 LightmappedGeneric
 {
 $basetexture concrete/concretewall053a
-%keywords c17sewers,wasteland,exterior,hl2
+%keywords c17sewers,exterior,hl2,wasteland
 $surfaceprop concrete
 $detail detail/noise_detail_01
 $detailscale 7.345

@@ -1,6 +1,6 @@
 VertexLitGeneric
 {
-$basetexture Models/props_wasteland/quarryobjects01
+$basetexture models/props_wasteland/quarryobjects01
 $model	1
 $surfaceprop metal
 $nocull 1

@@ -2,7 +2,7 @@ LightmappedGeneric
 {
 $basetexture dev/dev_hazzardstripe01a
 $surfaceprop concrete
-%keywords exterior,smooth,hl2
+%keywords exterior,hl2,smooth
 $alphatest 1
 $phong	1
 $phongexponent 100

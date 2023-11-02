@@ -7,7 +7,7 @@ $envmap env_cubemap
 $envmaptint "[.6 .6 .6]"
 $normalmapalphaenvmapmask 1
 $fresnelreflection .6
-%keywords combine
+%keywords combine,hl2
 $phong	1
 $phongexponent 256
 $phongamount "[6.144 6.144 6.144 1]"

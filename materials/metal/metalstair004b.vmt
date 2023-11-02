@@ -4,5 +4,5 @@ $basetexture metal/metalstair004b
 %compilepassbullets 1
 $surfaceprop metalgrate
 $alphatest 1
-%keywords c17industrial
+%keywords c17industrial,hl2
 }

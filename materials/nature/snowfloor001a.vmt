@@ -2,7 +2,7 @@ LightmappedGeneric
 {
 $basetexture nature/snowfloor001a
 $surfaceprop snow
-%keywords ground,exterior,winter,cold,hl2
+%keywords cold,exterior,ground,hl2,winter
 $nocull 1
 $phong	1
 $phongexponent 80

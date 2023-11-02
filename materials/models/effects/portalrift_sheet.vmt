@@ -5,8 +5,8 @@ $basetexture _rt_Camera
 $refractamount .26
 $bluramount 1
 $scale	"[1 1]"
-$dudvmap models/effects/portal_camera_dudv
-$normalmap models/effects/portalrift_normal
+$dudvmap	models/effects/portal_camera_dudv
+$normalmap	models/effects/portalrift_normal
 $bumpframe 0
 $translucent 1
 $refracttinttexture models/effects/portalrift

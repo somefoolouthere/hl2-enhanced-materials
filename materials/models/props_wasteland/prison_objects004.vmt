@@ -2,15 +2,8 @@ VertexLitGeneric
 {
 $basetexture models/props_wasteland/prison_objects004
 $envmap env_cubemap
+$envmaptint "[.25 .25 .25]"
 $envmapmask models/props_wasteland/prison_objects004_mask
 $surfaceprop metal
 $nocull 1
-vertexlitgeneric_HDR_dx9
-{
-$envmaptint "[.25 .25 .25]"
-}
-vertexlitgeneric_DX9
-{
-$envmaptint "[.25 .25 .25]"
-}
 }

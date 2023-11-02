@@ -1,6 +1,6 @@
 UnlitGeneric
 {
-$baseTexture models/effects/comball_sphere
+$basetexture models/effects/comball_sphere
 $nocull 1
 $additive 1
 $translucent 1

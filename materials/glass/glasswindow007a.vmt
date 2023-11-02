@@ -2,12 +2,12 @@ LightmappedGeneric
 {
 $basetexture glass/glasswindow007a
 $surfaceprop glass
-%keywords c17trainstation,trainstation
+%keywords c17trainstation,hl2
 $translucent 1
 $envmap env_cubemap
 $envmapmask glass/glasswindow007a_mask
 $phong	1
 $phongexponent 256
-$phongamount "[4 4 4 1]"
+$phongamount "[10.24 10.24 10.24 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }

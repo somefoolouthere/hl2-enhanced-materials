@@ -1,7 +1,7 @@
 LightmappedGeneric
 {
 $basetexture building_template/building_template002a
-%keywords hl2,interior,brick
+%keywords brick,hl2,interior
 $surfaceprop concrete
 $detail detail/plaster_detail_01
 $detailscale 8.283
