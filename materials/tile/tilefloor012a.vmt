@@ -3,7 +3,7 @@ LightmappedGeneric
 $baseTexture tile/tilefloor012a
 $bumpmap	tile/tilefloor012b_normal
 $surfaceprop tile
-%keywords borealis,interior,smooth,hl2
+%keywords borealis,hl2,interior,smooth
 $envmap env_cubemap
 $envmaptint "[.5 .5 .5]"
 $normalmapalphaenvmapmask 1

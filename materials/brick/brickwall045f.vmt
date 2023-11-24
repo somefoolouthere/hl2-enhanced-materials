@@ -2,7 +2,7 @@ LightmappedGeneric
 {
 $basetexture brick/brickwall045f
 $surfaceprop brick
-%keywords exterior,interior,hl2
+%keywords exterior,hl2,interior
 $detail detail/noise_detail_01
 $detailscale 7.74
 $detailblendfactor .8

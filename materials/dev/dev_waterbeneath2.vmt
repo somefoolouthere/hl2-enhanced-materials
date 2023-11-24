@@ -2,6 +2,7 @@ Water
 {
 $abovewater 0
 %compilewater 1
+%keywords hl2
 $CHEAPWATERSTARTDISTANCE 512
 $CHEAPWATERENDDISTANCE 1024
 %tooltexture dev/water_normal

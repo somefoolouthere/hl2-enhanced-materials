@@ -2,7 +2,7 @@ LightmappedGeneric
 {
 $basetexture wood/woodwall045a
 $surfaceprop wood
-%keywords wasteland,hl2,exterior,painted
+%keywords exterior,hl2,painted,wasteland
 $phong	1
 $phongexponent 8
 $phongamount "[.32 .32 .32 1]"

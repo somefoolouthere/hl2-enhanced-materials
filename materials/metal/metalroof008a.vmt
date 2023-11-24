@@ -3,7 +3,7 @@ LightmappedGeneric
 $basetexture metal/metalroof008a
 $bumpmap	metal/metalroof008a_normal
 $surfaceprop metal
-%keywords c17industrial,industrial,exterior,interior,ceiling,smooth,metallic
+%keywords c17industrial,ceiling,exterior,hl2,interior,metallic,smooth
 $envmap env_cubemap
 $envmaptint "[.3 .3 .3]"
 $normalmapalphaenvmapmask 1

@@ -3,7 +3,7 @@ LightmappedGeneric
 $basetexture tile/tilefloor011a
 $bumpmap	tile/tilefloor011a_normal
 $surfaceprop tile
-%keywords interior,smooth,freespace,hl2
+%keywords freespace,hl2,interior,smooth
 $envmap env_cubemap
 $envmaptint "[.4 .4 .4]"
 $normalmapalphaenvmapmask 1

@@ -7,7 +7,7 @@ $detail detail/noise_detail_01
 $detailscale 7.74
 $detailblendfactor .8
 $detailblendmode 0
-%keywords wasteland,exterior,hl2
+%keywords exterior,hl2,wasteland
 $parallaxmap brick/brickwall048i_height
 $parallaxmapscale .005
 $phong	1

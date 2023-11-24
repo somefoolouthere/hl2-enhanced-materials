@@ -1,7 +1,7 @@
 LightmappedGeneric
 {
 $basetexture props/doorbutton002a
-%keywords hl2
+%keywords emissive,hl2,smooth
 $selfillum 1
 $surfaceprop metalpanel
 $phong	1
