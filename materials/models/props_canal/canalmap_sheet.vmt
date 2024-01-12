@@ -9,7 +9,6 @@ $phongboost 4
 $phongexponent 2
 $phongfresnelranges "[.02 .51 1]"
 $phongtint "[.02 .02 .02]"
-$phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
 $rimlightexponent 50

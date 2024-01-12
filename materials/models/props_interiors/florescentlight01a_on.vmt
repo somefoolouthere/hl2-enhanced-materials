@@ -1,16 +1,14 @@
 VertexLitGeneric
 {
-$basetexture models/props_foliage/cattails
+$basetexture models/props_interiors/florescentlight01a
 $bumpmap	null-bumpmap
-$alphatest 1
-$alphatestreference .55
-$nocull 1
-$model	1
+$selfillum 1
 $phong	1
 $phongboost 4
 $phongexponent 10
 $phongfresnelranges "[.1 .55 1]"
 $phongtint "[.1 .1 .1]"
+$phongdisablehalflambert 1
 $rimlight	1
 $rimlightboost 1
 $rimlightexponent 10
