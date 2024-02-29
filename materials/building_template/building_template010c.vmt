@@ -1,18 +1,17 @@
 LightmappedGeneric
 {
-$basetexture building_template/building_template007b
+$basetexture building_template/building_template010c
 $surfaceprop concrete
-%keywords wall,window,exterior,hl2
 $detail detail/plaster_detail_01
 $detailscale 8.283
 $detailblendfactor 1.2
 $detailblendmode 0
 $envmap env_cubemap
-$envmaptint "[.5 .5 .5]"
 $basealphaenvmapmask 1
+$envmaptint "[.5 .5 .5]"
 $fresnelreflection .5
 $phong	1
 $phongexponent 256
-$phongamount "[10.24 10.24 10.24 1]"
+$phongamount "[5.12 5.12 5.12 1]"
 $phongmaskcontrastbrightness "[0 0]"
 }
