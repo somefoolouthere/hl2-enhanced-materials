@@ -7,13 +7,13 @@ $basealphaenvmapmask 1
 $nocull 1
 $phong	1
 $phongboost 4
-$phongexponent 40
-$phongfresnelranges "[.4 .7 1]"
-$phongtint "[.4 .4 .4]"
+$phongexponent 50
+$phongfresnelranges "[.5 .75 1]"
+$phongtint "[.5 .5 .5]"
 $phongdisablehalflambert 1
 $basemapalphaphongmask 1
 $invertphongmask 1
 $rimlight	1
 $rimlightboost 1
-$rimlightexponent 2.5
+$rimlightexponent 50
 }

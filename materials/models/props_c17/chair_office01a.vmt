@@ -1,9 +1,8 @@
 VertexLitGeneric
 {
-$basetexture models/props_canal/rock_riverbed01a
+$basetexture models/props_c17/chair_office01a
 $bumpmap	null-bumpmap
-$surfaceprop concrete
-$nocull 1
+$surfaceprop metal
 $phong	1
 $phongboost 4
 $phongexponent 10

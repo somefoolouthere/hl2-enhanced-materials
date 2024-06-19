@@ -1,10 +1,13 @@
 VertexLitGeneric
 {
-$basetexture models/props_c17/chair_kleiner03a
+$basetexture models/props_c17/canister_propane01a
 $bumpmap	null-bumpmap
-$surfaceprop metal
 $envmap env_cubemap
-$nocull 1
+$basealphaenvmapmask 1
+$detail detail/plaster_detail_01
+$detailscale 4.545
+$detailblendfactor .8
+$detailblendmode 0
 $phong	1
 $phongboost 4
 $phongexponent 20

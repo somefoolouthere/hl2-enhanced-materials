@@ -1,13 +1,13 @@
 LightmappedGeneric
 {
 $basetexture nature/cliffface001a
-$bumpmap nature/cliffface001a_normal
+$bumpmap	nature/cliffface001a_normal
 $surfaceprop dirt
+$nocull 1
 $detail detail/rock_detail_01
 $detailscale 11
 $detailblendfactor 1
 $detailblendmode 0
-$nocull 1
 $phong	1
 $phongexponent 2
 $phongamount "[.08 .08 .08 1]"

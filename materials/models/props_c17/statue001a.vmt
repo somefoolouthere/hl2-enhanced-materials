@@ -1,6 +1,7 @@
 VertexLitGeneric
 {
 $basetexture models/props_c17/statue001a
+$bumpmap	null-bumpmap
 $surfaceprop concrete
 $envmap env_cubemap
 $basealphaenvmapmask 1
@@ -9,4 +10,15 @@ $detail detail/noise_detail_01
 $detailscale 7.345
 $detailblendfactor .2
 $detailblendmode 0
+$phong	1
+$phongboost 4
+$phongexponent 1
+$phongfresnelranges "[.1 .55 1]"
+$phongtint "[.1 .1 .1]"
+$phongdisablehalflambert 1
+$basemapalphaphongmask 1
+$invertphongmask 1
+$rimlight	1
+$rimlightboost 1
+$rimlightexponent 10
 }

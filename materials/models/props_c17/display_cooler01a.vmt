@@ -15,5 +15,5 @@ $basemapalphaphongmask 1
 $invertphongmask 1
 $rimlight	1
 $rimlightboost 1
-$rimlightexponent 2.5
+$rimlightexponent 40
 }

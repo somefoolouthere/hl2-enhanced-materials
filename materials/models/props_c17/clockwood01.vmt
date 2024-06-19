@@ -11,5 +11,5 @@ $phongfresnelranges "[1 1 1]"
 $phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
-$rimlightexponent 1
+$rimlightexponent 100
 }

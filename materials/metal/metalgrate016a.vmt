@@ -5,6 +5,7 @@ $basetexture metal/metalgrate016a
 $surfaceprop metalgrate
 %keywords c17industrial,hl2
 $alphatest 1
+$nocull 1
 $phong	1
 $phongexponent 25
 $phongamount "[1 1 1 1]"

@@ -1,8 +1,20 @@
 VertexLitGeneric
 {
 $basetexture models/props_c17/gravestones002a
+$bumpmap	null-bumpmap
 $surfaceprop concrete
 $envmap env_cubemap
 $basealphaenvmapmask 1
 $nocull 1
+$phong	1
+$phongboost 4
+$phongexponent 2
+$phongfresnelranges "[.02 .51 1]"
+$phongtint "[.02 .02 .02]"
+$phongdisablehalflambert 1
+$basemapalphaphongmask 1
+$invertphongmask 1
+$rimlight	1
+$rimlightboost 1
+$rimlightexponent 2
 }

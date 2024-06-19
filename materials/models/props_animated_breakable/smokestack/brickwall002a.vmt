@@ -10,5 +10,5 @@ $phongtint "[.01 .01 .01]"
 $phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
-$rimlightexponent 100
+$rimlightexponent 1
 }

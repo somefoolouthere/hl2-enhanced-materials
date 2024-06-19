@@ -1,4 +1,4 @@
-vertexlitGeneric
+VertexLitGeneric
 {
 $basetexture models/props_c17/door01a_skin14
 $bumpmap	models/props_c17/door01a_skin14_normal

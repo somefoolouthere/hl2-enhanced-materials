@@ -1,7 +1,7 @@
 VertexLitGeneric
 {
 $basetexture models/props_buildings/antenna
-$bumpmap null-bumpmap
+$bumpmap	null-bumpmap
 $nocull	1
 $alphatest 1
 $alphatestreference .5
