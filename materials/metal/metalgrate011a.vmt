@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+$basetexture metal/metalgrate011a
+$surfaceprop metalgrate
+%keywords c17industrial,kraken
+%compilepassbullets 1
+$alphatest 1
+$nocull 1
+}

@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+$basetexture Metal/metaltruss015a
+$surfaceprop metal
+%keywords c17downtown
+$alphatest 1
+$nocull 1
+}

@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+$basetexture metal/metaltruss012a
+$surfaceprop metal
+%keywords c17industrial,wasteland
+%compilepassbullets 1
+$alphatest 1
+$nocull 1
+}

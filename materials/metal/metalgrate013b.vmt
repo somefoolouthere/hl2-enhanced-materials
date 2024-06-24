@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+$basetexture metal/metalgrate013b
+$surfaceprop metalgrate
+%keywords airexchange,c17industrial,combine,wasteland
+%compilepassbullets 1
+$alphatest 1
+$nocull 1
+}
