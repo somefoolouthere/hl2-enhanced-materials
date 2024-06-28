@@ -4,7 +4,6 @@ $basetexture building_template/roof_template001a
 $bumpmap	building_template/roof_template001a_normal
 %keywords exterior,hl2,rough
 $surfaceprop concrete
-$nocull 1
 $phong	1
 $phongexponent 5
 $phongamount "[.2 .2 .2 1]"
