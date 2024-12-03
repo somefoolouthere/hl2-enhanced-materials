@@ -1,7 +1,7 @@
 VertexLitGeneric
 {
 $basetexture models/props_c17/furniture_detailprops001a
-$bumpmap	null-bumpmap
+//$bumpmap	null-bumpmap
 $envmap env_cubemap
 $basealphaenvmapmask 1
 }
